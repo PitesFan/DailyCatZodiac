@@ -1,5 +1,3 @@
-# DailyCatZodiac
-
 # 🐱 My Birthday Cat
 
 A simple and cute website where you can see a new cat every day!
