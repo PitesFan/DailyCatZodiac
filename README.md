@@ -14,3 +14,5 @@ A simple and cute website where you can see a new cat every day!
 
 ---
 *Made with ❤️ for cat lovers and astrology fans.*
+
+Figma link: https://www.figma.com/design/K9nQ02BVQmka70V9J5WYDm/DailyCatZodiac?node-id=0-1&t=EPTvUCjhd7MzeSFy-1
