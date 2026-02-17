@@ -1,0 +1,63 @@
+/* Font and color styles */
+
+* {
+ margin: 0;
+ padding: 0;
+}
+
+body {
+ background-color: #2B3740;
+}
+
+@font-face {
+ font-family: "PaytoneOne";
+ src: url("fonts/PaytoneOne.woff");
+}
+
+@font-face {
+ font-family: "Comfortaa";
+ src: url("fonts/Comfortaa-Regular.woff")
+}
+
+h1, h2, h3 {
+ font-family: PaytoneOne;
+}
+
+p {
+ font-family: Comfortaa;
+ font-size: 18px;
+ line-height: 150%;
+}
+
+.light-blue {
+ color: #15EDE7;
+}
+
+.gray {
+ color: #C5CACA;
+}
+
+.dark-green {
+ background-color: #006408;
+}
+
+.dark-blue {
+ background-color: #065E7B;
+}
+
+/* Desktop styles */
+
+body {
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+}
+
+section {
+ width: 1192px;
+ display: grid;
+ grid-template-columns: repeat(12, 70px);
+ gap: 32px;
+}
+
+
