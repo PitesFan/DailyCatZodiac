@@ -1,0 +1,16 @@
+{
+ "zodia": [
+  {"name": "Berbec", "url": "images/zodia/berbec.jpg", "description": "test"},
+  {"name": "Taur", "url": "images/zodia/taur.jpg", "description": "test"},
+  {"name": "Gemeni", "url": "images/zodia/gemeni.jpg", "description": "test"},
+  {"name": "Rac", "url": "images/zodia/rac.jpg", "description": "test"},
+  {"name": "Leu", "url": "images/zodia/leu.jpg", "description": "test"},
+  {"name": "Fecioară", "url": "images/zodia/fecioară.jpg", "description": "test"},
+  {"name": "Balanță", "url": "images/zodia/balanță.jpg", "description": "test"},
+  {"name": "Scorpion", "url": "images/zodia/scorpion.jpg", "description": "test"},
+  {"name": "Săgetător", "url": "images/zodia/săgetător.jpg", "description": "test"},
+  {"name": "Capricorn", "url": "images/zodia/capricorn.jpg", "description": "test"},
+  {"name": "Vărsător", "url": "images/zodia/vărsător.jpg", "description": "test"},
+  {"name": "Pești", "url": "images/zodia/pești.jpg", "description": "test"}
+ ]
+}
