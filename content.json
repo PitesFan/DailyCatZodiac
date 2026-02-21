@@ -1,32 +1,32 @@
 {
- "header":
-  {
-   "title1": "Welcome to ",
-   "title2": "Zodia ta - pisica ta",
-   "description": "Site dedicat exclusiv iubitorilor de pisici, dar și celor curioși de a afla ce pisică sunt :)."
+  "header": {
+    "logo": "images/logo.png",
+    "title1": "Welcome to ",
+    "title2": "Zodia ta - pisica ta",
+    "description": "Site dedicat exclusiv iubitorilor de pisici, dar și celor curioși de a afla ce pisică sunt :)."
   },
 
- "today-cat": {
-  "header2": "Pisica zilei",
-  "button-text-off": "Afișează caracteristici ->",
-  "button-text-on": "Ascunde caracteristici ->"
+  "todays-cat": {
+    "header2": "Pisica zilei",
+    "button-text-off": "Afișează caracteristici ->",
+    "button-text-on": "Ascunde caracteristici ->"
   },
 
- "find-cat": {
-  "header2": "Descoperă pisica din tine",
-  "button-zodia": "Caută după zodie",
-  "or-text": "sau",
-  "button-date": "Caută după ziua nașterii"
- },
+  "find-cat": {
+    "header2": "Descoperă pisica din tine",
+    "button-zodia": "Caută după zodie",
+    "or-text": "sau",
+    "button-date": "Caută după ziua nașterii"
+  },
 
- "show-cat-date": {
-  "header3": "Introdu data nașterii",
-  "input-date-example": "Ex: 12.02",
- },
+  "show-cat-date": {
+    "header3": "Introdu data nașterii",
+    "input-date-example": "Ex: 12.02"
+  },
 
- "show-cat-zodia": {
-  "header3": "Selectează zodia",
- },
+  "show-cat-zodia": {
+    "header3": "Selectează zodia"
+  },
 
- "footer": "©2026 DailyCatZodiac. Toate drepturile rezervate."
+  "footer": "©2026 DailyCatZodiac. Toate drepturile rezervate."
 }

@@ -1,63 +1,103 @@
 /* Font and color styles */
 
 * {
- margin: 0;
- padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 body {
- background-color: #2B3740;
+  background-color: #2b3740;
+  display: flex;
+  gap: 100px;
 }
 
 @font-face {
- font-family: "PaytoneOne";
- src: url("fonts/PaytoneOne.woff");
+  font-family: "PaytoneOne";
+  src: url("fonts/PaytoneOne.woff");
 }
 
 @font-face {
- font-family: "Comfortaa";
- src: url("fonts/Comfortaa-Regular.woff")
+  font-family: "Comfortaa";
+  src: url("fonts/Comfortaa-Regular.woff");
 }
 
-h1, h2, h3 {
- font-family: PaytoneOne;
+h1,
+h2,
+h3 {
+  font-family: PaytoneOne;
 }
 
 p {
- font-family: Comfortaa;
- font-size: 18px;
- line-height: 150%;
+  font-family: Comfortaa;
+  font-size: 18px;
+  line-height: 150%;
+}
+
+.white {
+  color: #ffffff;
 }
 
 .light-blue {
- color: #15EDE7;
+  color: #15ede7;
 }
 
 .gray {
- color: #C5CACA;
+  color: #c5caca;
 }
 
 .dark-green {
- background-color: #006408;
+  background-color: #006408;
 }
 
 .dark-blue {
- background-color: #065E7B;
+  background-color: #065e7b;
 }
 
 /* Desktop styles */
 
 body {
- display: flex;
- align-items: center;
- flex-direction: column;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 section {
- width: 1192px;
- display: grid;
- grid-template-columns: repeat(12, 70px);
- gap: 32px;
+  max-width: 1192px;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 32px;
 }
 
+/* Header styles */
 
+#header {
+  align-items: center;
+  margin-top: 32px;
+}
+
+.logo {
+  grid-column: 1/3;
+  width: 100%;
+}
+
+.div-header {
+  grid-column: 3/13;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.div-title {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
+
+/* Footer styles */
+
+.footer {
+  grid-column: 1/13;
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+}
