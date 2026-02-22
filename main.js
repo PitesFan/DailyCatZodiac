@@ -4,11 +4,12 @@ fetch("content.json")
   })
   .then((data) => {
     console.log(data);
-    render(data);
+    renderHeader(data);
+    renderFindCat(data);
+    renderFooter(data);
   });
 
-function render(data) {
-  // Header
+function renderHeader(data) {
   const header = document.getElementById("header");
   const logo = document.createElement("img");
   const divHeader = document.createElement("div");
@@ -34,8 +35,41 @@ function render(data) {
   divTitle.appendChild(title1);
   divTitle.appendChild(title2);
   divHeader.appendChild(description);
+}
 
-  // Footer
+function renderFindCat(data) {
+  const findCat = document.getElementById("find-cat");
+  const header2 = document.createElement("h2");
+  const image = document.createElement("img");
+  const buttonZodia = document.createElement("button");
+  const orText = document.createElement("p");
+  const buttonDate = document.createElement("button");
+  const divTitle = document.createElement("div");
+  const divButtons = document.createElement("div");
+
+  header2.innerText = data["find-cat"].header2;
+  image.src = data["find-cat"].image;
+  buttonZodia.innerText = data["find-cat"]["button-zodia"];
+  orText.innerText = data["find-cat"]["or-text"];
+  buttonDate.innerText = data["find-cat"]["button-date"];
+  header2.classList.add("white", "h2");
+  image.classList.add("cloud");
+  buttonZodia.classList.add("button", "dark-green", "white");
+  orText.classList.add("gray");
+  buttonDate.classList.add("button", "dark-green", "white");
+  divTitle.classList.add("div-title");
+  divButtons.classList.add("div-buttons");
+
+  findCat.appendChild(divTitle);
+  divTitle.appendChild(header2);
+  divTitle.appendChild(image);
+  findCat.appendChild(divButtons);
+  divButtons.appendChild(buttonZodia);
+  divButtons.appendChild(orText);
+  divButtons.appendChild(buttonDate);
+}
+
+function renderFooter(data) {
   const footer = document.getElementById("footer");
   const footerP = document.createElement("p");
   footer.classList.add("footer");
