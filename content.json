@@ -22,7 +22,8 @@
 
   "show-cat-date": {
     "header3": "Introdu data nașterii",
-    "input-date-example": "Ex: 12.02"
+    "input-date-example": "Ex: 12.02",
+    "button-find": "Găsește pisica"
   },
 
   "show-cat-zodia": {

@@ -33,6 +33,22 @@ p {
   line-height: 150%;
 }
 
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 44px;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+p {
+  font-size: 18px;
+}
+
 .white {
   color: #ffffff;
 }
@@ -87,7 +103,7 @@ section {
   gap: 24px;
 }
 
-.div-title {
+.div-titles {
   display: flex;
   flex-direction: row;
   gap: 12px;
@@ -101,11 +117,16 @@ section {
 
 .div-title {
   width: 100%;
-  grid-column: 1/5;
+  grid-column: 1/7;
   position: relative;
+  display: flex;
   text-align: center;
   align-items: center;
   justify-content: center;
+}
+
+.div-title h2 {
+  width: 70%;
 }
 
 h2 {
@@ -117,7 +138,7 @@ h2 {
 }
 
 .div-buttons {
-  grid-column: 5/13;
+  grid-column: 7/13;
   display: flex;
   flex-direction: column;
   gap: 24px;
@@ -129,6 +150,53 @@ button {
   border: none;
   border-radius: 40px;
   font-family: Comfortaa;
+}
+
+button:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
+.button-selected {
+  background-color: #32ccff;
+  color: #000000;
+}
+
+/* Show-cat-zodia styles */
+
+#show-cat-zodia {
+  justify-content: center;
+}
+
+.div-header3 {
+  grid-column: 1/5;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  row-gap: 24px;
+}
+
+.div-buttons-zodia {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.cat-image {
+  grid-column: 5/9;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  display: none;
+  border-radius: 32px;
+  object-fit: cover;
+}
+
+.image-description {
+  grid-column: 9/13;
+  width: 100%;
+  display: none;
 }
 
 /* Footer styles */
