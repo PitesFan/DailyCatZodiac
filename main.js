@@ -68,8 +68,6 @@ function renderFindCat(data, databaseData) {
   divButtons.appendChild(orText);
   divButtons.appendChild(buttonDate);
 
-  renderShowCatZodia(data, databaseData);
-
   function renderShowCatZodia(data, databaseData) {
     const showCatZodia = document.getElementById("show-cat-zodia");
     const divButtonsZodia = document.createElement("div");
@@ -83,8 +81,7 @@ function renderFindCat(data, databaseData) {
     divHeader3.classList.add("div-header3");
     divButtonsZodia.classList.add("div-buttons-zodia");
     catImage.classList.add("cat-image");
-    imageDescription.classList.add("image-description");
-    imageDescription.classList.add("gray");
+    imageDescription.classList.add("image-description", "gray");
 
     showCatZodia.appendChild(divHeader3);
     divHeader3.appendChild(header3);
@@ -118,6 +115,47 @@ function renderFindCat(data, databaseData) {
       }
     });
   }
+
+  function renderShowCatDate(data, databaseData) {
+    const showCatDate = document.getElementById("show-cat-date");
+    const divHeader3 = document.createElement("div");
+    const header3 = document.createElement("h3");
+    const catImage = document.createElement("img");
+    const imageDescription = document.createElement("p");
+    const inputDate = document.createElement("input");
+
+    header3.innerText = data["show-cat-date"].header3;
+    header3.classList.add("white", "h3");
+    divHeader3.classList.add("div-header3");
+    catImage.classList.add("cat-image");
+    imageDescription.classList.add("image-description", "gray");
+    inputDate.type = "text";
+    inputDate.classList.add("input-date");
+    inputDate.placeholder = data["show-cat-date"]["input-date-example"];
+
+    showCatDate.appendChild(divHeader3);
+    divHeader3.appendChild(header3);
+    divHeader3.appendChild(inputDate);
+    showCatDate.appendChild(catImage);
+    showCatDate.appendChild(imageDescription);
+
+    inputDate.addEventListener("input", (event) => {
+      const enteredDate = event.target.value;
+      const matchedCat = databaseData.data.find(
+        (item) => item.name === enteredDate,
+      );
+
+      if (matchedCat) {
+        catImage.src = matchedCat.url;
+        imageDescription.innerText = matchedCat.description;
+        catImage.style.display = "block";
+        imageDescription.style.display = "block";
+      }
+    });
+  }
+
+  renderShowCatZodia(data, databaseData);
+  renderShowCatDate(data, databaseData);
 }
 
 function renderFooter(data) {

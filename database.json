@@ -1,4 +1,4 @@
-{
+﻿{
   "zodia": [
     {
       "name": "Berbec",
@@ -60,5 +60,1838 @@
       "url": "images/zodia/pești.jpg",
       "description": "Pești – Persian: Pisica cu aer visător și blană ca norii, se potrivește celor din Pești prin sensibilitate; e tandră, contemplativă și aduce un strop de magie în fiecare zi."
     }
+  ],
+  "data": [
+    {
+      "name": "01.01",
+      "url": "images/data/maine_coon1.jpg",
+      "description": "1 ianuarie – Maine Coon: Pisica impunătoare cu aer de început de an, se potrivește primei zile prin noblețe și curaj; e calmă, dar gata să deschidă orice drum cu încredere."
+    },
+    {
+      "name": "02.01",
+      "url": "images/data/ragdoll1.jpg",
+      "description": "2 ianuarie – Ragdoll: Pisica blândă și moale ca o promisiune, se potrivește acestei zile prin liniștea ei; se lipește de oameni și aduce pace în casă."
+    },
+    {
+      "name": "03.01",
+      "url": "images/data/bengal1.jpg",
+      "description": "3 ianuarie – Bengal: Pisica tigrată cu scântei în privire, se potrivește zilei prin energie; e curioasă, sprintenă și mereu pe urmele aventurii."
+    },
+    {
+      "name": "04.01",
+      "url": "images/data/british-shorthair1.jpg",
+      "description": "4 ianuarie – British Shorthair: Pisica rotunjoară, cu alură regală, se potrivește zilei prin stabilitate; iubește confortul și răspunde cu loialitate."
+    },
+    {
+      "name": "05.01",
+      "url": "images/data/siamese1.jpg",
+      "description": "5 ianuarie – Siamese: Pisica vorbăreață, cu ochi adânci, se potrivește zilei prin istețime; comunică mult și adoră compania."
+    },
+    {
+      "name": "06.01",
+      "url": "images/data/norwegian_forest1.jpg",
+      "description": "6 ianuarie – Norwegian Forest: Pisica robustă și independentă, se potrivește zilei prin rezistență; urcă sus, dar revine mereu cu demnitate."
+    },
+    {
+      "name": "07.01",
+      "url": "images/data/russian_blue1.jpg",
+      "description": "7 ianuarie – Russian Blue: Pisica discretă cu blană argintie, se potrivește zilei prin eleganță; observă tot și păstrează misterul."
+    },
+    {
+      "name": "08.01",
+      "url": "images/data/abyssinian1.jpg",
+      "description": "8 ianuarie – Abyssinian: Pisica atletică și vioaie, se potrivește zilei prin curaj; adoră mișcarea și explorarea."
+    },
+    {
+      "name": "09.01",
+      "url": "images/data/persian1.jpg",
+      "description": "9 ianuarie – Persian: Pisica visătoare cu blană de nor, se potrivește zilei prin tandrețe; aduce calm și o magie tăcută."
+    },
+    {
+      "name": "10.01",
+      "url": "images/data/scottish_fold1.jpg",
+      "description": "10 ianuarie – Scottish Fold: Pisica cu urechi pliate și zâmbet blajin, se potrivește zilei prin echilibru; aduce armonie oriunde se așază."
+    },
+    {
+      "name": "11.01",
+      "url": "images/data/sphynx1.jpg",
+      "description": "11 ianuarie – Sphynx: Pisica neconvențională și caldă, se potrivește zilei prin originalitate; e afectuoasă și surprinde mereu."
+    },
+    {
+      "name": "12.01",
+      "url": "images/data/bombay1.jpg",
+      "description": "12 ianuarie – Bombay: Pisica neagră ca noaptea, se potrivește zilei prin mister; e intensă, loială și profundă."
+    },
+    {
+      "name": "13.01",
+      "url": "images/data/birman1.jpg",
+      "description": "13 ianuarie – Birman: Pisica cu mănuși albe și privire senină, se potrivește zilei prin grație; e blândă și iubitoare."
+    },
+    {
+      "name": "14.01",
+      "url": "images/data/tonkinese1.jpg",
+      "description": "14 ianuarie – Tonkinese: Pisica sociabilă și jucăușă, se potrivește zilei prin căldură; e mereu între oameni și iubește conversația."
+    },
+    {
+      "name": "15.01",
+      "url": "images/data/chartreux1.jpg",
+      "description": "15 ianuarie – Chartreux: Pisica tăcută, cu zâmbet discret, se potrivește zilei prin calm; e inteligentă și observă subtil."
+    },
+    {
+      "name": "16.01",
+      "url": "images/data/turkish_angora1.jpg",
+      "description": "16 ianuarie – Turkish Angora: Pisica suplă și luminoasă, se potrivește zilei prin eleganță; dansează cu pași fini și prinde atenția."
+    },
+    {
+      "name": "17.01",
+      "url": "images/data/burmese1.jpg",
+      "description": "17 ianuarie – Burmese: Pisica compactă, plină de energie, se potrivește zilei prin entuziasm; e prietenoasă și neobosită."
+    },
+    {
+      "name": "18.01",
+      "url": "images/data/american_shorthair1.jpg",
+      "description": "18 ianuarie – American Shorthair: Pisica echilibrată și adaptabilă, se potrivește zilei prin pragmatism; e liniștită, dar mereu prezentă."
+    },
+    {
+      "name": "19.01",
+      "url": "images/data/devon_rex1.jpg",
+      "description": "19 ianuarie – Devon Rex: Pisica cu urechi mari și personalitate jucăușă, se potrivește zilei prin spirit liber; e comică și afectuoasă."
+    },
+    {
+      "name": "20.01",
+      "url": "images/data/siberian1.jpg",
+      "description": "20 ianuarie – Siberian: Pisica puternică și blândă, se potrivește zilei prin generozitate; e protector și curios."
+    },
+    {
+      "name": "21.01",
+      "url": "images/data/ocicat1.jpg",
+      "description": "21 ianuarie – Ocicat: Pisica pătată cu aer de explorator, se potrivește zilei prin îndrăzneală; iubește jocul și mișcarea."
+    },
+    {
+      "name": "22.01",
+      "url": "images/data/oriental_shorthair1.jpg",
+      "description": "22 ianuarie – Oriental Shorthair: Pisica subțire și expresivă, se potrivește zilei prin intensitate; comunică mult și adoră atenția."
+    },
+    {
+      "name": "23.01",
+      "url": "images/data/turkish_van1.jpg",
+      "description": "23 ianuarie – Turkish Van: Pisica iubitoare de apă, se potrivește zilei prin surpriză; e independentă, dar plină de afecțiune."
+    },
+    {
+      "name": "24.01",
+      "url": "images/data/selkirk_rex1.jpg",
+      "description": "24 ianuarie – Selkirk Rex: Pisica cu blană cârlionțată, se potrivește zilei prin unicitate; e calmă și foarte iubibilă."
+    },
+    {
+      "name": "25.01",
+      "url": "images/data/korat1.jpg",
+      "description": "25 ianuarie – Korat: Pisica cu ochi verzi ca smaraldul, se potrivește zilei prin loialitate; e atentă și se atașează profund."
+    },
+    {
+      "name": "26.01",
+      "url": "images/data/manx1.jpg",
+      "description": "26 ianuarie – Manx: Pisica fără coadă, se potrivește zilei prin originalitate; e jucăușă și surprinzător de agilă."
+    },
+    {
+      "name": "27.01",
+      "url": "images/data/havana_brown1.jpg",
+      "description": "27 ianuarie – Havana Brown: Pisica ciocolatie, se potrivește zilei prin căldură; e afectuoasă și curioasă."
+    },
+    {
+      "name": "28.01",
+      "url": "images/data/snowshoe1.jpg",
+      "description": "28 ianuarie – Snowshoe: Pisica cu “cizme” albe, se potrivește zilei prin farmec; e blândă și sociabilă."
+    },
+    {
+      "name": "29.01",
+      "url": "images/data/egyptian_mau1.jpg",
+      "description": "29 ianuarie – Egyptian Mau: Pisica elegantă și rapidă, se potrivește zilei prin grație; aleargă cu stil și privește cu mister."
+    },
+    {
+      "name": "30.01",
+      "url": "images/data/singapura1.jpg",
+      "description": "30 ianuarie – Singapura: Pisica mică, dar plină de energie, se potrivește zilei prin vivacitate; e jucăușă și foarte atentă la oameni."
+    },
+    {
+      "name": "31.01",
+      "url": "images/data/japanese_bobtail1.jpg",
+      "description": "31 ianuarie – Japanese Bobtail: Pisica cu coadă scurtă și spirit vesel, se potrivește zilei prin optimism; aduce noroc și bună dispoziție."
+    },
+    {
+      "name": "01.02",
+      "url": "images/data/maine_coon2.jpg",
+      "description": "1 februarie – Maine Coon: Pisica impunătoare cu suflet cald, se potrivește zilei prin statornicie; e calmă, dar mereu gata să protejeze."
+    },
+    {
+      "name": "02.02",
+      "url": "images/data/ragdoll2.jpg",
+      "description": "2 februarie – Ragdoll: Pisica blândă ca o ninsoare liniștită, se potrivește zilei prin tandrețe; se topește în brațe și dăruiește pace."
+    },
+    {
+      "name": "03.02",
+      "url": "images/data/bengal2.jpg",
+      "description": "3 februarie – Bengal: Pisica tigrată cu energie de iarnă însorită, se potrivește zilei prin curaj; exploratoare și plină de viață."
+    },
+    {
+      "name": "04.02",
+      "url": "images/data/british-shorthair2.jpg",
+      "description": "4 februarie – British Shorthair: Pisica rotundă și regală, se potrivește zilei prin echilibru; adoră confortul și răspunde cu loialitate."
+    },
+    {
+      "name": "05.02",
+      "url": "images/data/siamese2.jpg",
+      "description": "5 februarie – Siamese: Pisica vorbăreață și inteligentă, se potrivește zilei prin curiozitate; comunică mult și iubește atenția."
+    },
+    {
+      "name": "06.02",
+      "url": "images/data/norwegian_forest2.jpg",
+      "description": "6 februarie – Norwegian Forest: Pisica robustă și liberă, se potrivește zilei prin rezistență; urcă liniștit spre înălțimi."
+    },
+    {
+      "name": "07.02",
+      "url": "images/data/russian_blue2.jpg",
+      "description": "7 februarie – Russian Blue: Pisica discretă cu luciu argintiu, se potrivește zilei prin finețe; observă tăcut și iubește liniștea."
+    },
+    {
+      "name": "08.02",
+      "url": "images/data/abyssinian2.jpg",
+      "description": "8 februarie – Abyssinian: Pisica agilă, cu spirit jucăuș, se potrivește zilei prin dinamism; curioasă și mereu în mișcare."
+    },
+    {
+      "name": "09.02",
+      "url": "images/data/persian2.jpg",
+      "description": "9 februarie – Persian: Pisica visătoare cu blană de catifea, se potrivește zilei prin sensibilitate; aduce calm și o stare de vis."
+    },
+    {
+      "name": "10.02",
+      "url": "images/data/scottish_fold2.jpg",
+      "description": "10 februarie – Scottish Fold: Pisica cu urechi pliate și expresie blândă, se potrivește zilei prin armonie; se adaptează ușor."
+    },
+    {
+      "name": "11.02",
+      "url": "images/data/sphynx2.jpg",
+      "description": "11 februarie – Sphynx: Pisica neconvențională și afectuoasă, se potrivește zilei prin originalitate; iubește căldura oamenilor."
+    },
+    {
+      "name": "12.02",
+      "url": "images/data/bombay2.jpg",
+      "description": "12 februarie – Bombay: Pisica neagră și intensă, se potrivește zilei prin mister; privește adânc și se atașează profund."
+    },
+    {
+      "name": "13.02",
+      "url": "images/data/birman2.jpg",
+      "description": "13 februarie – Birman: Pisica cu mănuși albe, se potrivește zilei prin grație; blândă și iubitoare, ca un talisman."
+    },
+    {
+      "name": "14.02",
+      "url": "images/data/tonkinese2.jpg",
+      "description": "14 februarie – Tonkinese: Pisica sociabilă și jucăușă, se potrivește zilei prin căldură; aduce iubire și voie bună."
+    },
+    {
+      "name": "15.02",
+      "url": "images/data/chartreux2.jpg",
+      "description": "15 februarie – Chartreux: Pisica tăcută și inteligentă, se potrivește zilei prin calm; e loială și subtilă."
+    },
+    {
+      "name": "16.02",
+      "url": "images/data/turkish_angora2.jpg",
+      "description": "16 februarie – Turkish Angora: Pisica elegantă și luminoasă, se potrivește zilei prin rafinament; se mișcă grațios și atrage priviri."
+    },
+    {
+      "name": "17.02",
+      "url": "images/data/burmese2.jpg",
+      "description": "17 februarie – Burmese: Pisica energică și prietenoasă, se potrivește zilei prin entuziasm; umple casa de viață."
+    },
+    {
+      "name": "18.02",
+      "url": "images/data/american_shorthair2.jpg",
+      "description": "18 februarie – American Shorthair: Pisica echilibrată, se potrivește zilei prin pragmatism; calmă, dar mereu prezentă."
+    },
+    {
+      "name": "19.02",
+      "url": "images/data/devon_rex2.jpg",
+      "description": "19 februarie – Devon Rex: Pisica cu aer comic și suflet jucăuș, se potrivește zilei prin spontaneitate; afectuoasă și plină de surprize."
+    },
+    {
+      "name": "20.02",
+      "url": "images/data/siberian2.jpg",
+      "description": "20 februarie – Siberian: Pisica puternică și blândă, se potrivește zilei prin generozitate; protectoare și curioasă."
+    },
+    {
+      "name": "21.02",
+      "url": "images/data/ocicat2.jpg",
+      "description": "21 februarie – Ocicat: Pisica pătată și îndrăzneață, se potrivește zilei prin aventură; iubește jocul și explorarea."
+    },
+    {
+      "name": "22.02",
+      "url": "images/data/oriental_shorthair2.jpg",
+      "description": "22 februarie – Oriental Shorthair: Pisica expresivă și sociabilă, se potrivește zilei prin intensitate; comunică mult și nu stă locului."
+    },
+    {
+      "name": "23.02",
+      "url": "images/data/turkish_van2.jpg",
+      "description": "23 februarie – Turkish Van: Pisica independentă, iubitoare de apă, se potrivește zilei prin spirit liber; surprinde prin afecțiune."
+    },
+    {
+      "name": "24.02",
+      "url": "images/data/selkirk_rex2.jpg",
+      "description": "24 februarie – Selkirk Rex: Pisica cu blană cârlionțată, se potrivește zilei prin unicitate; calmă și foarte iubibilă."
+    },
+    {
+      "name": "25.02",
+      "url": "images/data/korat2.jpg",
+      "description": "25 februarie – Korat: Pisica cu ochi verzi, se potrivește zilei prin loialitate; atentă și profund atașată."
+    },
+    {
+      "name": "26.02",
+      "url": "images/data/manx2.jpg",
+      "description": "26 februarie – Manx: Pisica fără coadă, se potrivește zilei prin originalitate; jucăușă și plină de farmec."
+    },
+    {
+      "name": "27.02",
+      "url": "images/data/havana_brown2.jpg",
+      "description": "27 februarie – Havana Brown: Pisica ciocolatie, se potrivește zilei prin căldură; afectuoasă și curioasă."
+    },
+    {
+      "name": "28.02",
+      "url": "images/data/snowshoe2.jpg",
+      "description": "28 februarie – Snowshoe: Pisica cu “cizme” albe, se potrivește zilei prin delicatețe; blândă, sociabilă și elegantă."
+    },
+    {
+      "name": "29.02",
+      "url": "images/data/egyptian_mau2.jpg",
+      "description": "29 februarie – Egyptian Mau: Pisica elegantă și rapidă, se potrivește zilei prin raritate; are grație și mister de zi specială."
+    },
+    {
+      "name": "01.03",
+      "url": "images/data/maine_coon3.jpg",
+      "description": "1 martie – Maine Coon: Pisica impunătoare cu suflet protector, se potrivește zilei prin statornicie; calmă, dar mereu gata să deschidă drumuri noi."
+    },
+    {
+      "name": "02.03",
+      "url": "images/data/ragdoll3.jpg",
+      "description": "2 martie – Ragdoll: Pisica blândă și caldă, se potrivește zilei prin tandrețe; se lipește de oameni și aduce liniște."
+    },
+    {
+      "name": "03.03",
+      "url": "images/data/bengal3.jpg",
+      "description": "3 martie – Bengal: Pisica tigrată cu energie primăvăratică, se potrivește zilei prin curaj; explorează, aleargă și inspiră."
+    },
+    {
+      "name": "04.03",
+      "url": "images/data/british-shorthair3.jpg",
+      "description": "4 martie – British Shorthair: Pisica rotundă și regală, se potrivește zilei prin echilibru; iubește confortul și răspunde cu loialitate."
+    },
+    {
+      "name": "05.03",
+      "url": "images/data/siamese3.jpg",
+      "description": "5 martie – Siamese: Pisica expresivă și isteață, se potrivește zilei prin curiozitate; vorbește mult și cere atenție."
+    },
+    {
+      "name": "06.03",
+      "url": "images/data/norwegian_forest3.jpg",
+      "description": "6 martie – Norwegian Forest: Pisica robustă și liberă, se potrivește zilei prin rezistență; urcă în liniște și observă de sus."
+    },
+    {
+      "name": "07.03",
+      "url": "images/data/russian_blue3.jpg",
+      "description": "7 martie – Russian Blue: Pisica discretă cu blană argintie, se potrivește zilei prin finețe; observă tot și păstrează misterul."
+    },
+    {
+      "name": "08.03",
+      "url": "images/data/abyssinian3.jpg",
+      "description": "8 martie – Abyssinian: Pisica atletică și vioaie, se potrivește zilei prin dinamism; curioasă și neobosită."
+    },
+    {
+      "name": "09.03",
+      "url": "images/data/persian3.jpg",
+      "description": "9 martie – Persian: Pisica visătoare cu blană de catifea, se potrivește zilei prin sensibilitate; aduce calm și grație."
+    },
+    {
+      "name": "10.03",
+      "url": "images/data/scottish_fold3.jpg",
+      "description": "10 martie – Scottish Fold: Pisica cu urechi pliate, se potrivește zilei prin armonie; blândă și ușor de îndrăgit."
+    },
+    {
+      "name": "11.03",
+      "url": "images/data/sphynx3.jpg",
+      "description": "11 martie – Sphynx: Pisica neconvențională, se potrivește zilei prin originalitate; afectuoasă și mereu surprinzătoare."
+    },
+    {
+      "name": "12.03",
+      "url": "images/data/bombay3.jpg",
+      "description": "12 martie – Bombay: Pisica neagră și intensă, se potrivește zilei prin mister; loială și profund atașată."
+    },
+    {
+      "name": "13.03",
+      "url": "images/data/birman3.jpg",
+      "description": "13 martie – Birman: Pisica cu mănuși albe, se potrivește zilei prin grație; blândă și aproape magică."
+    },
+    {
+      "name": "14.03",
+      "url": "images/data/tonkinese3.jpg",
+      "description": "14 martie – Tonkinese: Pisica sociabilă și jucăușă, se potrivește zilei prin căldură; aduce energie bună."
+    },
+    {
+      "name": "15.03",
+      "url": "images/data/chartreux3.jpg",
+      "description": "15 martie – Chartreux: Pisica calmă și inteligentă, se potrivește zilei prin echilibru; discretă, dar prezentă."
+    },
+    {
+      "name": "16.03",
+      "url": "images/data/turkish_angora3.jpg",
+      "description": "16 martie – Turkish Angora: Pisica elegantă și luminoasă, se potrivește zilei prin rafinament; se mișcă cu grație."
+    },
+    {
+      "name": "17.03",
+      "url": "images/data/burmese3.jpg",
+      "description": "17 martie – Burmese: Pisica plină de viață, se potrivește zilei prin entuziasm; prietenoasă și energică."
+    },
+    {
+      "name": "18.03",
+      "url": "images/data/american_shorthair3.jpg",
+      "description": "18 martie – American Shorthair: Pisica echilibrată și practică, se potrivește zilei prin stabilitate; calmă, dar atentă."
+    },
+    {
+      "name": "19.03",
+      "url": "images/data/devon_rex3.jpg",
+      "description": "19 martie – Devon Rex: Pisica jucăușă cu aer comic, se potrivește zilei prin spontaneitate; afectuoasă și amuzantă."
+    },
+    {
+      "name": "20.03",
+      "url": "images/data/siberian3.jpg",
+      "description": "20 martie – Siberian: Pisica puternică și blândă, se potrivește zilei prin generozitate; protectoare și curioasă."
+    },
+    {
+      "name": "21.03",
+      "url": "images/data/ocicat3.jpg",
+      "description": "21 martie – Ocicat: Pisica pătată și îndrăzneață, se potrivește zilei prin aventură; iubește jocul și mișcarea."
+    },
+    {
+      "name": "22.03",
+      "url": "images/data/oriental_shorthair3.jpg",
+      "description": "22 martie – Oriental Shorthair: Pisica expresivă și sociabilă, se potrivește zilei prin intensitate; comunică mult și cere atenție."
+    },
+    {
+      "name": "23.03",
+      "url": "images/data/turkish_van3.jpg",
+      "description": "23 martie – Turkish Van: Pisica independentă, se potrivește zilei prin spirit liber; surprinde prin afecțiune."
+    },
+    {
+      "name": "24.03",
+      "url": "images/data/selkirk_rex3.jpg",
+      "description": "24 martie – Selkirk Rex: Pisica cu blană cârlionțată, se potrivește zilei prin unicitate; calmă și foarte iubibilă."
+    },
+    {
+      "name": "25.03",
+      "url": "images/data/korat3.jpg",
+      "description": "25 martie – Korat: Pisica cu ochi verzi, se potrivește zilei prin loialitate; atentă și profund atașată."
+    },
+    {
+      "name": "26.03",
+      "url": "images/data/manx3.jpg",
+      "description": "26 martie – Manx: Pisica fără coadă, se potrivește zilei prin originalitate; jucăușă și agilă."
+    },
+    {
+      "name": "27.03",
+      "url": "images/data/havana_brown3.jpg",
+      "description": "27 martie – Havana Brown: Pisica ciocolatie, se potrivește zilei prin căldură; afectuoasă și curioasă."
+    },
+    {
+      "name": "28.03",
+      "url": "images/data/snowshoe3.jpg",
+      "description": "28 martie – Snowshoe: Pisica cu “cizme” albe, se potrivește zilei prin delicatețe; blândă și sociabilă."
+    },
+    {
+      "name": "29.03",
+      "url": "images/data/egyptian_mau3.jpg",
+      "description": "29 martie – Egyptian Mau: Pisica elegantă și rapidă, se potrivește zilei prin grație; are mister și finețe."
+    },
+    {
+      "name": "30.03",
+      "url": "images/data/singapura2.jpg",
+      "description": "30 martie – Singapura: Pisica mică, dar plină de energie, se potrivește zilei prin vivacitate; jucăușă și atentă."
+    },
+    {
+      "name": "31.03",
+      "url": "images/data/japanese_bobtail2.jpg",
+      "description": "31 martie – Japanese Bobtail: Pisica cu coadă scurtă și spirit vesel, se potrivește zilei prin optimism; aduce noroc și bună dispoziție."
+    },
+    {
+      "name": "01.04",
+      "url": "images/data/maine_coon1.jpg",
+      "description": "1 aprilie – Maine Coon: Pisica impunătoare cu suflet cald, se potrivește zilei prin statornicie; calmă, dar mereu pregătită să conducă cu încredere."
+    },
+    {
+      "name": "02.04",
+      "url": "images/data/ragdoll1.jpg",
+      "description": "2 aprilie – Ragdoll: Pisica blândă și moale, se potrivește zilei prin tandrețe; se topește în brațe și aduce liniște."
+    },
+    {
+      "name": "03.04",
+      "url": "images/data/bengal1.jpg",
+      "description": "3 aprilie – Bengal: Pisica tigrată cu energie de primăvară, se potrivește zilei prin curaj; explorează cu entuziasm și joacă."
+    },
+    {
+      "name": "04.04",
+      "url": "images/data/british-shorthair1.jpg",
+      "description": "4 aprilie – British Shorthair: Pisica rotunjoară și regală, se potrivește zilei prin echilibru; iubește confortul și răspunde cu loialitate."
+    },
+    {
+      "name": "05.04",
+      "url": "images/data/siamese1.jpg",
+      "description": "5 aprilie – Siamese: Pisica expresivă și isteață, se potrivește zilei prin curiozitate; comunică mult și caută companie."
+    },
+    {
+      "name": "06.04",
+      "url": "images/data/norwegian_forest1.jpg",
+      "description": "6 aprilie – Norwegian Forest: Pisica robustă și liberă, se potrivește zilei prin rezistență; urcă liniștit și privește de sus."
+    },
+    {
+      "name": "07.04",
+      "url": "images/data/russian_blue1.jpg",
+      "description": "7 aprilie – Russian Blue: Pisica discretă cu blană argintie, se potrivește zilei prin finețe; observă tăcut și păstrează misterul."
+    },
+    {
+      "name": "08.04",
+      "url": "images/data/abyssinian1.jpg",
+      "description": "8 aprilie – Abyssinian: Pisica atletică și vioaie, se potrivește zilei prin dinamism; curioasă și mereu în mișcare."
+    },
+    {
+      "name": "09.04",
+      "url": "images/data/persian1.jpg",
+      "description": "9 aprilie – Persian: Pisica visătoare cu blană de catifea, se potrivește zilei prin sensibilitate; aduce calm și eleganță."
+    },
+    {
+      "name": "10.04",
+      "url": "images/data/scottish_fold1.jpg",
+      "description": "10 aprilie – Scottish Fold: Pisica cu urechi pliate și zâmbet blajin, se potrivește zilei prin armonie; blândă și ușor de iubit."
+    },
+    {
+      "name": "11.04",
+      "url": "images/data/sphynx1.jpg",
+      "description": "11 aprilie – Sphynx: Pisica neconvențională, se potrivește zilei prin originalitate; afectuoasă și surprinzătoare."
+    },
+    {
+      "name": "12.04",
+      "url": "images/data/bombay1.jpg",
+      "description": "12 aprilie – Bombay: Pisica neagră și intensă, se potrivește zilei prin mister; loială și profund atașată."
+    },
+    {
+      "name": "13.04",
+      "url": "images/data/birman1.jpg",
+      "description": "13 aprilie – Birman: Pisica cu mănuși albe, se potrivește zilei prin grație; blândă și aproape magică."
+    },
+    {
+      "name": "14.04",
+      "url": "images/data/tonkinese1.jpg",
+      "description": "14 aprilie – Tonkinese: Pisica sociabilă și jucăușă, se potrivește zilei prin căldură; aduce energie bună."
+    },
+    {
+      "name": "15.04",
+      "url": "images/data/chartreux1.jpg",
+      "description": "15 aprilie – Chartreux: Pisica calmă și inteligentă, se potrivește zilei prin echilibru; discretă, dar prezentă."
+    },
+    {
+      "name": "16.04",
+      "url": "images/data/turkish_angora1.jpg",
+      "description": "16 aprilie – Turkish Angora: Pisica elegantă și luminoasă, se potrivește zilei prin rafinament; se mișcă grațios."
+    },
+    {
+      "name": "17.04",
+      "url": "images/data/burmese1.jpg",
+      "description": "17 aprilie – Burmese: Pisica plină de viață, se potrivește zilei prin entuziasm; prietenoasă și energică."
+    },
+    {
+      "name": "18.04",
+      "url": "images/data/american_shorthair1.jpg",
+      "description": "18 aprilie – American Shorthair: Pisica echilibrată și practică, se potrivește zilei prin stabilitate; calmă, dar atentă."
+    },
+    {
+      "name": "19.04",
+      "url": "images/data/devon_rex1.jpg",
+      "description": "19 aprilie – Devon Rex: Pisica jucăușă cu aer comic, se potrivește zilei prin spontaneitate; afectuoasă și amuzantă."
+    },
+    {
+      "name": "20.04",
+      "url": "images/data/siberian1.jpg",
+      "description": "20 aprilie – Siberian: Pisica puternică și blândă, se potrivește zilei prin generozitate; protectoare și curioasă."
+    },
+    {
+      "name": "21.04",
+      "url": "images/data/ocicat1.jpg",
+      "description": "21 aprilie – Ocicat: Pisica pătată și îndrăzneață, se potrivește zilei prin aventură; iubește jocul și mișcarea."
+    },
+    {
+      "name": "22.04",
+      "url": "images/data/oriental_shorthair1.jpg",
+      "description": "22 aprilie – Oriental Shorthair: Pisica expresivă și sociabilă, se potrivește zilei prin intensitate; comunică mult și cere atenție."
+    },
+    {
+      "name": "23.04",
+      "url": "images/data/turkish_van1.jpg",
+      "description": "23 aprilie – Turkish Van: Pisica independentă, se potrivește zilei prin spirit liber; surprinde prin afecțiune."
+    },
+    {
+      "name": "24.04",
+      "url": "images/data/selkirk_rex1.jpg",
+      "description": "24 aprilie – Selkirk Rex: Pisica cu blană cârlionțată, se potrivește zilei prin unicitate; calmă și foarte iubibilă."
+    },
+    {
+      "name": "25.04",
+      "url": "images/data/korat1.jpg",
+      "description": "25 aprilie – Korat: Pisica cu ochi verzi, se potrivește zilei prin loialitate; atentă și profund atașată."
+    },
+    {
+      "name": "26.04",
+      "url": "images/data/manx1.jpg",
+      "description": "26 aprilie – Manx: Pisica fără coadă, se potrivește zilei prin originalitate; jucăușă și agilă."
+    },
+    {
+      "name": "27.04",
+      "url": "images/data/havana_brown1.jpg",
+      "description": "27 aprilie – Havana Brown: Pisica ciocolatie, se potrivește zilei prin căldură; afectuoasă și curioasă."
+    },
+    {
+      "name": "28.04",
+      "url": "images/data/snowshoe1.jpg",
+      "description": "28 aprilie – Snowshoe: Pisica cu “cizme” albe, se potrivește zilei prin delicatețe; blândă și sociabilă."
+    },
+    {
+      "name": "29.04",
+      "url": "images/data/egyptian_mau1.jpg",
+      "description": "29 aprilie – Egyptian Mau: Pisica elegantă și rapidă, se potrivește zilei prin grație; are mister și finețe."
+    },
+    {
+      "name": "30.04",
+      "url": "images/data/singapura3.jpg",
+      "description": "30 aprilie – Singapura: Pisica mică, dar plină de energie, se potrivește zilei prin vivacitate; jucăușă și atentă."
+    },
+    {
+      "name": "01.05",
+      "url": "images/data/maine_coon2.jpg",
+      "description": "1 mai – Maine Coon: Pisica impunătoare cu aer protector, se potrivește zilei prin statornicie; calmă, dar mereu atentă."
+    },
+    {
+      "name": "02.05",
+      "url": "images/data/ragdoll2.jpg",
+      "description": "2 mai – Ragdoll: Pisica blândă și moale, se potrivește zilei prin tandrețe; se topește în brațe și aduce liniște."
+    },
+    {
+      "name": "03.05",
+      "url": "images/data/bengal2.jpg",
+      "description": "3 mai – Bengal: Pisica tigrată cu energie solară, se potrivește zilei prin curaj; exploratoare și jucăușă."
+    },
+    {
+      "name": "04.05",
+      "url": "images/data/british-shorthair2.jpg",
+      "description": "4 mai – British Shorthair: Pisica rotundă și regală, se potrivește zilei prin echilibru; iubește confortul și răspunde cu loialitate."
+    },
+    {
+      "name": "05.05",
+      "url": "images/data/siamese2.jpg",
+      "description": "5 mai – Siamese: Pisica expresivă și isteață, se potrivește zilei prin curiozitate; comunică mult și caută companie."
+    },
+    {
+      "name": "06.05",
+      "url": "images/data/norwegian_forest2.jpg",
+      "description": "6 mai – Norwegian Forest: Pisica robustă și liberă, se potrivește zilei prin rezistență; urcă liniștit și privește de sus."
+    },
+    {
+      "name": "07.05",
+      "url": "images/data/russian_blue2.jpg",
+      "description": "7 mai – Russian Blue: Pisica discretă cu blană argintie, se potrivește zilei prin finețe; observă tăcut și păstrează misterul."
+    },
+    {
+      "name": "08.05",
+      "url": "images/data/abyssinian2.jpg",
+      "description": "8 mai – Abyssinian: Pisica atletică și vioaie, se potrivește zilei prin dinamism; curioasă și mereu în mișcare."
+    },
+    {
+      "name": "09.05",
+      "url": "images/data/persian2.jpg",
+      "description": "9 mai – Persian: Pisica visătoare cu blană de catifea, se potrivește zilei prin sensibilitate; aduce calm și eleganță."
+    },
+    {
+      "name": "10.05",
+      "url": "images/data/scottish_fold2.jpg",
+      "description": "10 mai – Scottish Fold: Pisica cu urechi pliate și zâmbet blajin, se potrivește zilei prin armonie; blândă și ușor de iubit."
+    },
+    {
+      "name": "11.05",
+      "url": "images/data/sphynx2.jpg",
+      "description": "11 mai – Sphynx: Pisica neconvențională, se potrivește zilei prin originalitate; afectuoasă și surprinzătoare."
+    },
+    {
+      "name": "12.05",
+      "url": "images/data/bombay2.jpg",
+      "description": "12 mai – Bombay: Pisica neagră și intensă, se potrivește zilei prin mister; loială și profund atașată."
+    },
+    {
+      "name": "13.05",
+      "url": "images/data/birman2.jpg",
+      "description": "13 mai – Birman: Pisica cu mănuși albe, se potrivește zilei prin grație; blândă și aproape magică."
+    },
+    {
+      "name": "14.05",
+      "url": "images/data/tonkinese2.jpg",
+      "description": "14 mai – Tonkinese: Pisica sociabilă și jucăușă, se potrivește zilei prin căldură; aduce energie bună."
+    },
+    {
+      "name": "15.05",
+      "url": "images/data/chartreux2.jpg",
+      "description": "15 mai – Chartreux: Pisica calmă și inteligentă, se potrivește zilei prin echilibru; discretă, dar prezentă."
+    },
+    {
+      "name": "16.05",
+      "url": "images/data/turkish_angora2.jpg",
+      "description": "16 mai – Turkish Angora: Pisica elegantă și luminoasă, se potrivește zilei prin rafinament; se mișcă grațios."
+    },
+    {
+      "name": "17.05",
+      "url": "images/data/burmese2.jpg",
+      "description": "17 mai – Burmese: Pisica plină de viață, se potrivește zilei prin entuziasm; prietenoasă și energică."
+    },
+    {
+      "name": "18.05",
+      "url": "images/data/american_shorthair2.jpg",
+      "description": "18 mai – American Shorthair: Pisica echilibrată și practică, se potrivește zilei prin stabilitate; calmă, dar atentă."
+    },
+    {
+      "name": "19.05",
+      "url": "images/data/devon_rex2.jpg",
+      "description": "19 mai – Devon Rex: Pisica jucăușă cu aer comic, se potrivește zilei prin spontaneitate; afectuoasă și amuzantă."
+    },
+    {
+      "name": "20.05",
+      "url": "images/data/siberian2.jpg",
+      "description": "20 mai – Siberian: Pisica puternică și blândă, se potrivește zilei prin generozitate; protectoare și curioasă."
+    },
+    {
+      "name": "21.05",
+      "url": "images/data/ocicat2.jpg",
+      "description": "21 mai – Ocicat: Pisica pătată și îndrăzneață, se potrivește zilei prin aventură; iubește jocul și mișcarea."
+    },
+    {
+      "name": "22.05",
+      "url": "images/data/oriental_shorthair2.jpg",
+      "description": "22 mai – Oriental Shorthair: Pisica expresivă și sociabilă, se potrivește zilei prin intensitate; comunică mult și cere atenție."
+    },
+    {
+      "name": "23.05",
+      "url": "images/data/turkish_van2.jpg",
+      "description": "23 mai – Turkish Van: Pisica independentă, se potrivește zilei prin spirit liber; surprinde prin afecțiune."
+    },
+    {
+      "name": "24.05",
+      "url": "images/data/selkirk_rex2.jpg",
+      "description": "24 mai – Selkirk Rex: Pisica cu blană cârlionțată, se potrivește zilei prin unicitate; calmă și foarte iubibilă."
+    },
+    {
+      "name": "25.05",
+      "url": "images/data/korat2.jpg",
+      "description": "25 mai – Korat: Pisica cu ochi verzi, se potrivește zilei prin loialitate; atentă și profund atașată."
+    },
+    {
+      "name": "26.05",
+      "url": "images/data/manx2.jpg",
+      "description": "26 mai – Manx: Pisica fără coadă, se potrivește zilei prin originalitate; jucăușă și agilă."
+    },
+    {
+      "name": "27.05",
+      "url": "images/data/havana_brown2.jpg",
+      "description": "27 mai – Havana Brown: Pisica ciocolatie, se potrivește zilei prin căldură; afectuoasă și curioasă."
+    },
+    {
+      "name": "28.05",
+      "url": "images/data/snowshoe2.jpg",
+      "description": "28 mai – Snowshoe: Pisica cu “cizme” albe, se potrivește zilei prin delicatețe; blândă și sociabilă."
+    },
+    {
+      "name": "29.05",
+      "url": "images/data/egyptian_mau2.jpg",
+      "description": "29 mai – Egyptian Mau: Pisica elegantă și rapidă, se potrivește zilei prin grație; are mister și finețe."
+    },
+    {
+      "name": "30.05",
+      "url": "images/data/singapura1.jpg",
+      "description": "30 mai – Singapura: Pisica mică, dar plină de energie, se potrivește zilei prin vivacitate; jucăușă și atentă."
+    },
+    {
+      "name": "31.05",
+      "url": "images/data/japanese_bobtail3.jpg",
+      "description": "31 mai – Japanese Bobtail: Pisica cu coadă scurtă și spirit vesel, se potrivește zilei prin optimism; aduce noroc și bună dispoziție."
+    },
+    {
+      "name": "01.06",
+      "url": "images/data/maine_coon3.jpg",
+      "description": "1 iunie – Maine Coon: Pisica impunătoare cu suflet calm, se potrivește zilei prin statornicie; protectoare și sigură pe sine."
+    },
+    {
+      "name": "02.06",
+      "url": "images/data/ragdoll3.jpg",
+      "description": "2 iunie – Ragdoll: Pisica blândă ca o îmbrățișare, se potrivește zilei prin tandrețe; aduce liniște și încredere."
+    },
+    {
+      "name": "03.06",
+      "url": "images/data/bengal3.jpg",
+      "description": "3 iunie – Bengal: Pisica tigrată cu energie de vară, se potrivește zilei prin curaj; curioasă și mereu în mișcare."
+    },
+    {
+      "name": "04.06",
+      "url": "images/data/british-shorthair3.jpg",
+      "description": "4 iunie – British Shorthair: Pisica rotundă și regală, se potrivește zilei prin echilibru; iubește confortul și răspunde cu loialitate."
+    },
+    {
+      "name": "05.06",
+      "url": "images/data/siamese3.jpg",
+      "description": "5 iunie – Siamese: Pisica expresivă și isteață, se potrivește zilei prin curiozitate; comunică mult și caută companie."
+    },
+    {
+      "name": "06.06",
+      "url": "images/data/norwegian_forest3.jpg",
+      "description": "6 iunie – Norwegian Forest: Pisica robustă și liberă, se potrivește zilei prin rezistență; urcă liniștit și privește de sus."
+    },
+    {
+      "name": "07.06",
+      "url": "images/data/russian_blue3.jpg",
+      "description": "7 iunie – Russian Blue: Pisica discretă cu blană argintie, se potrivește zilei prin finețe; observă tăcut și păstrează misterul."
+    },
+    {
+      "name": "08.06",
+      "url": "images/data/abyssinian3.jpg",
+      "description": "8 iunie – Abyssinian: Pisica atletică și vioaie, se potrivește zilei prin dinamism; curioasă și neobosită."
+    },
+    {
+      "name": "09.06",
+      "url": "images/data/persian3.jpg",
+      "description": "9 iunie – Persian: Pisica visătoare cu blană de catifea, se potrivește zilei prin sensibilitate; aduce calm și eleganță."
+    },
+    {
+      "name": "10.06",
+      "url": "images/data/scottish_fold3.jpg",
+      "description": "10 iunie – Scottish Fold: Pisica cu urechi pliate și zâmbet blajin, se potrivește zilei prin armonie; blândă și ușor de iubit."
+    },
+    {
+      "name": "11.06",
+      "url": "images/data/sphynx3.jpg",
+      "description": "11 iunie – Sphynx: Pisica neconvențională, se potrivește zilei prin originalitate; afectuoasă și surprinzătoare."
+    },
+    {
+      "name": "12.06",
+      "url": "images/data/bombay3.jpg",
+      "description": "12 iunie – Bombay: Pisica neagră și intensă, se potrivește zilei prin mister; loială și profund atașată."
+    },
+    {
+      "name": "13.06",
+      "url": "images/data/birman3.jpg",
+      "description": "13 iunie – Birman: Pisica cu mănuși albe, se potrivește zilei prin grație; blândă și aproape magică."
+    },
+    {
+      "name": "14.06",
+      "url": "images/data/tonkinese3.jpg",
+      "description": "14 iunie – Tonkinese: Pisica sociabilă și jucăușă, se potrivește zilei prin căldură; aduce energie bună."
+    },
+    {
+      "name": "15.06",
+      "url": "images/data/chartreux3.jpg",
+      "description": "15 iunie – Chartreux: Pisica calmă și inteligentă, se potrivește zilei prin echilibru; discretă, dar prezentă."
+    },
+    {
+      "name": "16.06",
+      "url": "images/data/turkish_angora3.jpg",
+      "description": "16 iunie – Turkish Angora: Pisica elegantă și luminoasă, se potrivește zilei prin rafinament; se mișcă grațios."
+    },
+    {
+      "name": "17.06",
+      "url": "images/data/burmese3.jpg",
+      "description": "17 iunie – Burmese: Pisica plină de viață, se potrivește zilei prin entuziasm; prietenoasă și energică."
+    },
+    {
+      "name": "18.06",
+      "url": "images/data/american_shorthair3.jpg",
+      "description": "18 iunie – American Shorthair: Pisica echilibrată și practică, se potrivește zilei prin stabilitate; calmă, dar atentă."
+    },
+    {
+      "name": "19.06",
+      "url": "images/data/devon_rex3.jpg",
+      "description": "19 iunie – Devon Rex: Pisica jucăușă cu aer comic, se potrivește zilei prin spontaneitate; afectuoasă și amuzantă."
+    },
+    {
+      "name": "20.06",
+      "url": "images/data/siberian3.jpg",
+      "description": "20 iunie – Siberian: Pisica puternică și blândă, se potrivește zilei prin generozitate; protectoare și curioasă."
+    },
+    {
+      "name": "21.06",
+      "url": "images/data/ocicat3.jpg",
+      "description": "21 iunie – Ocicat: Pisica pătată și îndrăzneață, se potrivește zilei prin aventură; iubește jocul și mișcarea."
+    },
+    {
+      "name": "22.06",
+      "url": "images/data/oriental_shorthair3.jpg",
+      "description": "22 iunie – Oriental Shorthair: Pisica expresivă și sociabilă, se potrivește zilei prin intensitate; comunică mult și cere atenție."
+    },
+    {
+      "name": "23.06",
+      "url": "images/data/turkish_van3.jpg",
+      "description": "23 iunie – Turkish Van: Pisica independentă, se potrivește zilei prin spirit liber; surprinde prin afecțiune."
+    },
+    {
+      "name": "24.06",
+      "url": "images/data/selkirk_rex3.jpg",
+      "description": "24 iunie – Selkirk Rex: Pisica cu blană cârlionțată, se potrivește zilei prin unicitate; calmă și foarte iubibilă."
+    },
+    {
+      "name": "25.06",
+      "url": "images/data/korat3.jpg",
+      "description": "25 iunie – Korat: Pisica cu ochi verzi, se potrivește zilei prin loialitate; atentă și profund atașată."
+    },
+    {
+      "name": "26.06",
+      "url": "images/data/manx3.jpg",
+      "description": "26 iunie – Manx: Pisica fără coadă, se potrivește zilei prin originalitate; jucăușă și agilă."
+    },
+    {
+      "name": "27.06",
+      "url": "images/data/havana_brown3.jpg",
+      "description": "27 iunie – Havana Brown: Pisica ciocolatie, se potrivește zilei prin căldură; afectuoasă și curioasă."
+    },
+    {
+      "name": "28.06",
+      "url": "images/data/snowshoe3.jpg",
+      "description": "28 iunie – Snowshoe: Pisica cu “cizme” albe, se potrivește zilei prin delicatețe; blândă și sociabilă."
+    },
+    {
+      "name": "29.06",
+      "url": "images/data/egyptian_mau3.jpg",
+      "description": "29 iunie – Egyptian Mau: Pisica elegantă și rapidă, se potrivește zilei prin grație; are mister și finețe."
+    },
+    {
+      "name": "30.06",
+      "url": "images/data/singapura2.jpg",
+      "description": "30 iunie – Singapura: Pisica mică, dar plină de energie, se potrivește zilei prin vivacitate; jucăușă și atentă."
+    },
+    {
+      "name": "01.07",
+      "url": "images/data/maine_coon1.jpg",
+      "description": "1 iulie – Maine Coon: Pisica impunătoare cu aer protector, se potrivește zilei prin statornicie; calmă, dar mereu atentă."
+    },
+    {
+      "name": "02.07",
+      "url": "images/data/ragdoll1.jpg",
+      "description": "2 iulie – Ragdoll: Pisica blândă ca o briză de vară, se potrivește zilei prin tandrețe; se topește în brațe."
+    },
+    {
+      "name": "03.07",
+      "url": "images/data/bengal1.jpg",
+      "description": "3 iulie – Bengal: Pisica tigrată cu energie solară, se potrivește zilei prin curaj; exploratoare și jucăușă."
+    },
+    {
+      "name": "04.07",
+      "url": "images/data/british-shorthair1.jpg",
+      "description": "4 iulie – British Shorthair: Pisica rotundă și regală, se potrivește zilei prin echilibru; iubește confortul și răspunde cu loialitate."
+    },
+    {
+      "name": "05.07",
+      "url": "images/data/siamese1.jpg",
+      "description": "5 iulie – Siamese: Pisica expresivă și isteață, se potrivește zilei prin curiozitate; comunică mult și caută companie."
+    },
+    {
+      "name": "06.07",
+      "url": "images/data/norwegian_forest1.jpg",
+      "description": "6 iulie – Norwegian Forest: Pisica robustă și liberă, se potrivește zilei prin rezistență; urcă liniștit și privește de sus."
+    },
+    {
+      "name": "07.07",
+      "url": "images/data/russian_blue1.jpg",
+      "description": "7 iulie – Russian Blue: Pisica discretă cu blană argintie, se potrivește zilei prin finețe; observă tăcut și păstrează misterul."
+    },
+    {
+      "name": "08.07",
+      "url": "images/data/abyssinian1.jpg",
+      "description": "8 iulie – Abyssinian: Pisica atletică și vioaie, se potrivește zilei prin dinamism; curioasă și neobosită."
+    },
+    {
+      "name": "09.07",
+      "url": "images/data/persian1.jpg",
+      "description": "9 iulie – Persian: Pisica visătoare cu blană de catifea, se potrivește zilei prin sensibilitate; aduce calm și eleganță."
+    },
+    {
+      "name": "10.07",
+      "url": "images/data/scottish_fold1.jpg",
+      "description": "10 iulie – Scottish Fold: Pisica cu urechi pliate și zâmbet blajin, se potrivește zilei prin armonie; blândă și ușor de iubit."
+    },
+    {
+      "name": "11.07",
+      "url": "images/data/sphynx1.jpg",
+      "description": "11 iulie – Sphynx: Pisica neconvențională, se potrivește zilei prin originalitate; afectuoasă și surprinzătoare."
+    },
+    {
+      "name": "12.07",
+      "url": "images/data/bombay1.jpg",
+      "description": "12 iulie – Bombay: Pisica neagră și intensă, se potrivește zilei prin mister; loială și profund atașată."
+    },
+    {
+      "name": "13.07",
+      "url": "images/data/birman1.jpg",
+      "description": "13 iulie – Birman: Pisica cu mănuși albe, se potrivește zilei prin grație; blândă și aproape magică."
+    },
+    {
+      "name": "14.07",
+      "url": "images/data/tonkinese1.jpg",
+      "description": "14 iulie – Tonkinese: Pisica sociabilă și jucăușă, se potrivește zilei prin căldură; aduce energie bună."
+    },
+    {
+      "name": "15.07",
+      "url": "images/data/chartreux1.jpg",
+      "description": "15 iulie – Chartreux: Pisica calmă și inteligentă, se potrivește zilei prin echilibru; discretă, dar prezentă."
+    },
+    {
+      "name": "16.07",
+      "url": "images/data/turkish_angora1.jpg",
+      "description": "16 iulie – Turkish Angora: Pisica elegantă și luminoasă, se potrivește zilei prin rafinament; se mișcă grațios."
+    },
+    {
+      "name": "17.07",
+      "url": "images/data/burmese1.jpg",
+      "description": "17 iulie – Burmese: Pisica plină de viață, se potrivește zilei prin entuziasm; prietenoasă și energică."
+    },
+    {
+      "name": "18.07",
+      "url": "images/data/american_shorthair1.jpg",
+      "description": "18 iulie – American Shorthair: Pisica echilibrată și practică, se potrivește zilei prin stabilitate; calmă, dar atentă."
+    },
+    {
+      "name": "19.07",
+      "url": "images/data/devon_rex1.jpg",
+      "description": "19 iulie – Devon Rex: Pisica jucăușă cu aer comic, se potrivește zilei prin spontaneitate; afectuoasă și amuzantă."
+    },
+    {
+      "name": "20.07",
+      "url": "images/data/siberian1.jpg",
+      "description": "20 iulie – Siberian: Pisica puternică și blândă, se potrivește zilei prin generozitate; protectoare și curioasă."
+    },
+    {
+      "name": "21.07",
+      "url": "images/data/ocicat1.jpg",
+      "description": "21 iulie – Ocicat: Pisica pătată și îndrăzneață, se potrivește zilei prin aventură; iubește jocul și mișcarea."
+    },
+    {
+      "name": "22.07",
+      "url": "images/data/oriental_shorthair1.jpg",
+      "description": "22 iulie – Oriental Shorthair: Pisica expresivă și sociabilă, se potrivește zilei prin intensitate; comunică mult și cere atenție."
+    },
+    {
+      "name": "23.07",
+      "url": "images/data/turkish_van1.jpg",
+      "description": "23 iulie – Turkish Van: Pisica independentă, se potrivește zilei prin spirit liber; surprinde prin afecțiune."
+    },
+    {
+      "name": "24.07",
+      "url": "images/data/selkirk_rex1.jpg",
+      "description": "24 iulie – Selkirk Rex: Pisica cu blană cârlionțată, se potrivește zilei prin unicitate; calmă și foarte iubibilă."
+    },
+    {
+      "name": "25.07",
+      "url": "images/data/korat1.jpg",
+      "description": "25 iulie – Korat: Pisica cu ochi verzi, se potrivește zilei prin loialitate; atentă și profund atașată."
+    },
+    {
+      "name": "26.07",
+      "url": "images/data/manx1.jpg",
+      "description": "26 iulie – Manx: Pisica fără coadă, se potrivește zilei prin originalitate; jucăușă și agilă."
+    },
+    {
+      "name": "27.07",
+      "url": "images/data/havana_brown1.jpg",
+      "description": "27 iulie – Havana Brown: Pisica ciocolatie, se potrivește zilei prin căldură; afectuoasă și curioasă."
+    },
+    {
+      "name": "28.07",
+      "url": "images/data/snowshoe1.jpg",
+      "description": "28 iulie – Snowshoe: Pisica cu “cizme” albe, se potrivește zilei prin delicatețe; blândă și sociabilă."
+    },
+    {
+      "name": "29.07",
+      "url": "images/data/egyptian_mau1.jpg",
+      "description": "29 iulie – Egyptian Mau: Pisica elegantă și rapidă, se potrivește zilei prin grație; are mister și finețe."
+    },
+    {
+      "name": "30.07",
+      "url": "images/data/singapura3.jpg",
+      "description": "30 iulie – Singapura: Pisica mică, dar plină de energie, se potrivește zilei prin vivacitate; jucăușă și atentă."
+    },
+    {
+      "name": "31.07",
+      "url": "images/data/japanese_bobtail1.jpg",
+      "description": "31 iulie – Japanese Bobtail: Pisica cu coadă scurtă și spirit vesel, se potrivește zilei prin optimism; aduce noroc și bună dispoziție."
+    },
+    {
+      "name": "01.08",
+      "url": "images/data/maine_coon2.jpg",
+      "description": "1 august – Maine Coon: Pisica impunătoare cu suflet protector, se potrivește zilei prin statornicie; calmă, dar mereu atentă."
+    },
+    {
+      "name": "02.08",
+      "url": "images/data/ragdoll2.jpg",
+      "description": "2 august – Ragdoll: Pisica blândă ca o seară caldă, se potrivește zilei prin tandrețe; aduce liniște și confort."
+    },
+    {
+      "name": "03.08",
+      "url": "images/data/bengal2.jpg",
+      "description": "3 august – Bengal: Pisica tigrată cu energie solară, se potrivește zilei prin curaj; exploratoare și jucăușă."
+    },
+    {
+      "name": "04.08",
+      "url": "images/data/british-shorthair2.jpg",
+      "description": "4 august – British Shorthair: Pisica rotundă și regală, se potrivește zilei prin echilibru; iubește confortul și răspunde cu loialitate."
+    },
+    {
+      "name": "05.08",
+      "url": "images/data/siamese2.jpg",
+      "description": "5 august – Siamese: Pisica expresivă și isteață, se potrivește zilei prin curiozitate; comunică mult și caută companie."
+    },
+    {
+      "name": "06.08",
+      "url": "images/data/norwegian_forest2.jpg",
+      "description": "6 august – Norwegian Forest: Pisica robustă și liberă, se potrivește zilei prin rezistență; urcă liniștit și privește de sus."
+    },
+    {
+      "name": "07.08",
+      "url": "images/data/russian_blue2.jpg",
+      "description": "7 august – Russian Blue: Pisica discretă cu blană argintie, se potrivește zilei prin finețe; observă tăcut și păstrează misterul."
+    },
+    {
+      "name": "08.08",
+      "url": "images/data/abyssinian2.jpg",
+      "description": "8 august – Abyssinian: Pisica atletică și vioaie, se potrivește zilei prin dinamism; curioasă și neobosită."
+    },
+    {
+      "name": "09.08",
+      "url": "images/data/persian2.jpg",
+      "description": "9 august – Persian: Pisica visătoare cu blană de catifea, se potrivește zilei prin sensibilitate; aduce calm și eleganță."
+    },
+    {
+      "name": "10.08",
+      "url": "images/data/scottish_fold2.jpg",
+      "description": "10 august – Scottish Fold: Pisica cu urechi pliate și zâmbet blajin, se potrivește zilei prin armonie; blândă și ușor de iubit."
+    },
+    {
+      "name": "11.08",
+      "url": "images/data/sphynx2.jpg",
+      "description": "11 august – Sphynx: Pisica neconvențională, se potrivește zilei prin originalitate; afectuoasă și surprinzătoare."
+    },
+    {
+      "name": "12.08",
+      "url": "images/data/bombay2.jpg",
+      "description": "12 august – Bombay: Pisica neagră și intensă, se potrivește zilei prin mister; loială și profund atașată."
+    },
+    {
+      "name": "13.08",
+      "url": "images/data/birman2.jpg",
+      "description": "13 august – Birman: Pisica cu mănuși albe, se potrivește zilei prin grație; blândă și aproape magică."
+    },
+    {
+      "name": "14.08",
+      "url": "images/data/tonkinese2.jpg",
+      "description": "14 august – Tonkinese: Pisica sociabilă și jucăușă, se potrivește zilei prin căldură; aduce energie bună."
+    },
+    {
+      "name": "15.08",
+      "url": "images/data/chartreux2.jpg",
+      "description": "15 august – Chartreux: Pisica calmă și inteligentă, se potrivește zilei prin echilibru; discretă, dar prezentă."
+    },
+    {
+      "name": "16.08",
+      "url": "images/data/turkish_angora2.jpg",
+      "description": "16 august – Turkish Angora: Pisica elegantă și luminoasă, se potrivește zilei prin rafinament; se mișcă grațios."
+    },
+    {
+      "name": "17.08",
+      "url": "images/data/burmese2.jpg",
+      "description": "17 august – Burmese: Pisica plină de viață, se potrivește zilei prin entuziasm; prietenoasă și energică."
+    },
+    {
+      "name": "18.08",
+      "url": "images/data/american_shorthair2.jpg",
+      "description": "18 august – American Shorthair: Pisica echilibrată și practică, se potrivește zilei prin stabilitate; calmă, dar atentă."
+    },
+    {
+      "name": "19.08",
+      "url": "images/data/devon_rex2.jpg",
+      "description": "19 august – Devon Rex: Pisica jucăușă cu aer comic, se potrivește zilei prin spontaneitate; afectuoasă și amuzantă."
+    },
+    {
+      "name": "20.08",
+      "url": "images/data/siberian2.jpg",
+      "description": "20 august – Siberian: Pisica puternică și blândă, se potrivește zilei prin generozitate; protectoare și curioasă."
+    },
+    {
+      "name": "21.08",
+      "url": "images/data/ocicat2.jpg",
+      "description": "21 august – Ocicat: Pisica pătată și îndrăzneață, se potrivește zilei prin aventură; iubește jocul și mișcarea."
+    },
+    {
+      "name": "22.08",
+      "url": "images/data/oriental_shorthair2.jpg",
+      "description": "22 august – Oriental Shorthair: Pisica expresivă și sociabilă, se potrivește zilei prin intensitate; comunică mult și cere atenție."
+    },
+    {
+      "name": "23.08",
+      "url": "images/data/turkish_van2.jpg",
+      "description": "23 august – Turkish Van: Pisica independentă, se potrivește zilei prin spirit liber; surprinde prin afecțiune."
+    },
+    {
+      "name": "24.08",
+      "url": "images/data/selkirk_rex2.jpg",
+      "description": "24 august – Selkirk Rex: Pisica cu blană cârlionțată, se potrivește zilei prin unicitate; calmă și foarte iubibilă."
+    },
+    {
+      "name": "25.08",
+      "url": "images/data/korat2.jpg",
+      "description": "25 august – Korat: Pisica cu ochi verzi, se potrivește zilei prin loialitate; atentă și profund atașată."
+    },
+    {
+      "name": "26.08",
+      "url": "images/data/manx2.jpg",
+      "description": "26 august – Manx: Pisica fără coadă, se potrivește zilei prin originalitate; jucăușă și agilă."
+    },
+    {
+      "name": "27.08",
+      "url": "images/data/havana_brown2.jpg",
+      "description": "27 august – Havana Brown: Pisica ciocolatie, se potrivește zilei prin căldură; afectuoasă și curioasă."
+    },
+    {
+      "name": "28.08",
+      "url": "images/data/snowshoe2.jpg",
+      "description": "28 august – Snowshoe: Pisica cu “cizme” albe, se potrivește zilei prin delicatețe; blândă și sociabilă."
+    },
+    {
+      "name": "29.08",
+      "url": "images/data/egyptian_mau2.jpg",
+      "description": "29 august – Egyptian Mau: Pisica elegantă și rapidă, se potrivește zilei prin grație; are mister și finețe."
+    },
+    {
+      "name": "30.08",
+      "url": "images/data/singapura1.jpg",
+      "description": "30 august – Singapura: Pisica mică, dar plină de energie, se potrivește zilei prin vivacitate; jucăușă și atentă."
+    },
+    {
+      "name": "31.08",
+      "url": "images/data/japanese_bobtail2.jpg",
+      "description": "31 august – Japanese Bobtail: Pisica cu coadă scurtă și spirit vesel, se potrivește zilei prin optimism; aduce noroc și bună dispoziție."
+    },
+    {
+      "name": "01.09",
+      "url": "images/data/maine_coon3.jpg",
+      "description": "1 septembrie – Maine Coon: Pisica impunătoare cu aer protector, se potrivește zilei prin statornicie; calmă, dar mereu atentă."
+    },
+    {
+      "name": "02.09",
+      "url": "images/data/ragdoll3.jpg",
+      "description": "2 septembrie – Ragdoll: Pisica blândă ca o după‑amiază liniștită, se potrivește zilei prin tandrețe; aduce pace și confort."
+    },
+    {
+      "name": "03.09",
+      "url": "images/data/bengal3.jpg",
+      "description": "3 septembrie – Bengal: Pisica tigrată cu energie de început de toamnă, se potrivește zilei prin curaj; exploratoare și jucăușă."
+    },
+    {
+      "name": "04.09",
+      "url": "images/data/british-shorthair3.jpg",
+      "description": "4 septembrie – British Shorthair: Pisica rotundă și regală, se potrivește zilei prin echilibru; iubește confortul și răspunde cu loialitate."
+    },
+    {
+      "name": "05.09",
+      "url": "images/data/siamese3.jpg",
+      "description": "5 septembrie – Siamese: Pisica expresivă și isteață, se potrivește zilei prin curiozitate; comunică mult și caută companie."
+    },
+    {
+      "name": "06.09",
+      "url": "images/data/norwegian_forest3.jpg",
+      "description": "6 septembrie – Norwegian Forest: Pisica robustă și liberă, se potrivește zilei prin rezistență; urcă liniștit și privește de sus."
+    },
+    {
+      "name": "07.09",
+      "url": "images/data/russian_blue3.jpg",
+      "description": "7 septembrie – Russian Blue: Pisica discretă cu blană argintie, se potrivește zilei prin finețe; observă tăcut și păstrează misterul."
+    },
+    {
+      "name": "08.09",
+      "url": "images/data/abyssinian3.jpg",
+      "description": "8 septembrie – Abyssinian: Pisica atletică și vioaie, se potrivește zilei prin dinamism; curioasă și neobosită."
+    },
+    {
+      "name": "09.09",
+      "url": "images/data/persian3.jpg",
+      "description": "9 septembrie – Persian: Pisica visătoare cu blană de catifea, se potrivește zilei prin sensibilitate; aduce calm și eleganță."
+    },
+    {
+      "name": "10.09",
+      "url": "images/data/scottish_fold3.jpg",
+      "description": "10 septembrie – Scottish Fold: Pisica cu urechi pliate și zâmbet blajin, se potrivește zilei prin armonie; blândă și ușor de iubit."
+    },
+    {
+      "name": "11.09",
+      "url": "images/data/sphynx3.jpg",
+      "description": "11 septembrie – Sphynx: Pisica neconvențională, se potrivește zilei prin originalitate; afectuoasă și surprinzătoare."
+    },
+    {
+      "name": "12.09",
+      "url": "images/data/bombay3.jpg",
+      "description": "12 septembrie – Bombay: Pisica neagră și intensă, se potrivește zilei prin mister; loială și profund atașată."
+    },
+    {
+      "name": "13.09",
+      "url": "images/data/birman3.jpg",
+      "description": "13 septembrie – Birman: Pisica cu mănuși albe, se potrivește zilei prin grație; blândă și aproape magică."
+    },
+    {
+      "name": "14.09",
+      "url": "images/data/tonkinese3.jpg",
+      "description": "14 septembrie – Tonkinese: Pisica sociabilă și jucăușă, se potrivește zilei prin căldură; aduce energie bună."
+    },
+    {
+      "name": "15.09",
+      "url": "images/data/chartreux3.jpg",
+      "description": "15 septembrie – Chartreux: Pisica calmă și inteligentă, se potrivește zilei prin echilibru; discretă, dar prezentă."
+    },
+    {
+      "name": "16.09",
+      "url": "images/data/turkish_angora3.jpg",
+      "description": "16 septembrie – Turkish Angora: Pisica elegantă și luminoasă, se potrivește zilei prin rafinament; se mișcă grațios."
+    },
+    {
+      "name": "17.09",
+      "url": "images/data/burmese3.jpg",
+      "description": "17 septembrie – Burmese: Pisica plină de viață, se potrivește zilei prin entuziasm; prietenoasă și energică."
+    },
+    {
+      "name": "18.09",
+      "url": "images/data/american_shorthair3.jpg",
+      "description": "18 septembrie – American Shorthair: Pisica echilibrată și practică, se potrivește zilei prin stabilitate; calmă, dar atentă."
+    },
+    {
+      "name": "19.09",
+      "url": "images/data/devon_rex3.jpg",
+      "description": "19 septembrie – Devon Rex: Pisica jucăușă cu aer comic, se potrivește zilei prin spontaneitate; afectuoasă și amuzantă."
+    },
+    {
+      "name": "20.09",
+      "url": "images/data/siberian3.jpg",
+      "description": "20 septembrie – Siberian: Pisica puternică și blândă, se potrivește zilei prin generozitate; protectoare și curioasă."
+    },
+    {
+      "name": "21.09",
+      "url": "images/data/ocicat3.jpg",
+      "description": "21 septembrie – Ocicat: Pisica pătată și îndrăzneață, se potrivește zilei prin aventură; iubește jocul și mișcarea."
+    },
+    {
+      "name": "22.09",
+      "url": "images/data/oriental_shorthair3.jpg",
+      "description": "22 septembrie – Oriental Shorthair: Pisica expresivă și sociabilă, se potrivește zilei prin intensitate; comunică mult și cere atenție."
+    },
+    {
+      "name": "23.09",
+      "url": "images/data/turkish_van3.jpg",
+      "description": "23 septembrie – Turkish Van: Pisica independentă, se potrivește zilei prin spirit liber; surprinde prin afecțiune."
+    },
+    {
+      "name": "24.09",
+      "url": "images/data/selkirk_rex3.jpg",
+      "description": "24 septembrie – Selkirk Rex: Pisica cu blană cârlionțată, se potrivește zilei prin unicitate; calmă și foarte iubibilă."
+    },
+    {
+      "name": "25.09",
+      "url": "images/data/korat3.jpg",
+      "description": "25 septembrie – Korat: Pisica cu ochi verzi, se potrivește zilei prin loialitate; atentă și profund atașată."
+    },
+    {
+      "name": "26.09",
+      "url": "images/data/manx3.jpg",
+      "description": "26 septembrie – Manx: Pisica fără coadă, se potrivește zilei prin originalitate; jucăușă și agilă."
+    },
+    {
+      "name": "27.09",
+      "url": "images/data/havana_brown3.jpg",
+      "description": "27 septembrie – Havana Brown: Pisica ciocolatie, se potrivește zilei prin căldură; afectuoasă și curioasă."
+    },
+    {
+      "name": "28.09",
+      "url": "images/data/snowshoe3.jpg",
+      "description": "28 septembrie – Snowshoe: Pisica cu “cizme” albe, se potrivește zilei prin delicatețe; blândă și sociabilă."
+    },
+    {
+      "name": "29.09",
+      "url": "images/data/egyptian_mau3.jpg",
+      "description": "29 septembrie – Egyptian Mau: Pisica elegantă și rapidă, se potrivește zilei prin grație; are mister și finețe."
+    },
+    {
+      "name": "30.09",
+      "url": "images/data/singapura2.jpg",
+      "description": "30 septembrie – Singapura: Pisica mică, dar plină de energie, se potrivește zilei prin vivacitate; jucăușă și atentă."
+    },
+    {
+      "name": "01.10",
+      "url": "images/data/maine_coon1.jpg",
+      "description": "1 octombrie – Maine Coon: Pisica impunătoare cu aer protector, se potrivește zilei prin statornicie; calmă, dar mereu atentă."
+    },
+    {
+      "name": "02.10",
+      "url": "images/data/ragdoll1.jpg",
+      "description": "2 octombrie – Ragdoll: Pisica blândă ca o seară liniștită, se potrivește zilei prin tandrețe; aduce pace și confort."
+    },
+    {
+      "name": "03.10",
+      "url": "images/data/bengal1.jpg",
+      "description": "3 octombrie – Bengal: Pisica tigrată cu energie de toamnă, se potrivește zilei prin curaj; exploratoare și jucăușă."
+    },
+    {
+      "name": "04.10",
+      "url": "images/data/british-shorthair1.jpg",
+      "description": "4 octombrie – British Shorthair: Pisica rotundă și regală, se potrivește zilei prin echilibru; iubește confortul și răspunde cu loialitate."
+    },
+    {
+      "name": "05.10",
+      "url": "images/data/siamese1.jpg",
+      "description": "5 octombrie – Siamese: Pisica expresivă și isteață, se potrivește zilei prin curiozitate; comunică mult și caută companie."
+    },
+    {
+      "name": "06.10",
+      "url": "images/data/norwegian_forest1.jpg",
+      "description": "6 octombrie – Norwegian Forest: Pisica robustă și liberă, se potrivește zilei prin rezistență; urcă liniștit și privește de sus."
+    },
+    {
+      "name": "07.10",
+      "url": "images/data/russian_blue1.jpg",
+      "description": "7 octombrie – Russian Blue: Pisica discretă cu blană argintie, se potrivește zilei prin finețe; observă tăcut și păstrează misterul."
+    },
+    {
+      "name": "08.10",
+      "url": "images/data/abyssinian1.jpg",
+      "description": "8 octombrie – Abyssinian: Pisica atletică și vioaie, se potrivește zilei prin dinamism; curioasă și neobosită."
+    },
+    {
+      "name": "09.10",
+      "url": "images/data/persian1.jpg",
+      "description": "9 octombrie – Persian: Pisica visătoare cu blană de catifea, se potrivește zilei prin sensibilitate; aduce calm și eleganță."
+    },
+    {
+      "name": "10.10",
+      "url": "images/data/scottish_fold1.jpg",
+      "description": "10 octombrie – Scottish Fold: Pisica cu urechi pliate și zâmbet blajin, se potrivește zilei prin armonie; blândă și ușor de iubit."
+    },
+    {
+      "name": "11.10",
+      "url": "images/data/sphynx1.jpg",
+      "description": "11 octombrie – Sphynx: Pisica neconvențională, se potrivește zilei prin originalitate; afectuoasă și surprinzătoare."
+    },
+    {
+      "name": "12.10",
+      "url": "images/data/bombay1.jpg",
+      "description": "12 octombrie – Bombay: Pisica neagră și intensă, se potrivește zilei prin mister; loială și profund atașată."
+    },
+    {
+      "name": "13.10",
+      "url": "images/data/birman1.jpg",
+      "description": "13 octombrie – Birman: Pisica cu mănuși albe, se potrivește zilei prin grație; blândă și aproape magică."
+    },
+    {
+      "name": "14.10",
+      "url": "images/data/tonkinese1.jpg",
+      "description": "14 octombrie – Tonkinese: Pisica sociabilă și jucăușă, se potrivește zilei prin căldură; aduce energie bună."
+    },
+    {
+      "name": "15.10",
+      "url": "images/data/chartreux1.jpg",
+      "description": "15 octombrie – Chartreux: Pisica calmă și inteligentă, se potrivește zilei prin echilibru; discretă, dar prezentă."
+    },
+    {
+      "name": "16.10",
+      "url": "images/data/turkish_angora1.jpg",
+      "description": "16 octombrie – Turkish Angora: Pisica elegantă și luminoasă, se potrivește zilei prin rafinament; se mișcă grațios."
+    },
+    {
+      "name": "17.10",
+      "url": "images/data/burmese1.jpg",
+      "description": "17 octombrie – Burmese: Pisica plină de viață, se potrivește zilei prin entuziasm; prietenoasă și energică."
+    },
+    {
+      "name": "18.10",
+      "url": "images/data/american_shorthair1.jpg",
+      "description": "18 octombrie – American Shorthair: Pisica echilibrată și practică, se potrivește zilei prin stabilitate; calmă, dar atentă."
+    },
+    {
+      "name": "19.10",
+      "url": "images/data/devon_rex1.jpg",
+      "description": "19 octombrie – Devon Rex: Pisica jucăușă cu aer comic, se potrivește zilei prin spontaneitate; afectuoasă și amuzantă."
+    },
+    {
+      "name": "20.10",
+      "url": "images/data/siberian1.jpg",
+      "description": "20 octombrie – Siberian: Pisica puternică și blândă, se potrivește zilei prin generozitate; protectoare și curioasă."
+    },
+    {
+      "name": "21.10",
+      "url": "images/data/ocicat1.jpg",
+      "description": "21 octombrie – Ocicat: Pisica pătată și îndrăzneață, se potrivește zilei prin aventură; iubește jocul și mișcarea."
+    },
+    {
+      "name": "22.10",
+      "url": "images/data/oriental_shorthair1.jpg",
+      "description": "22 octombrie – Oriental Shorthair: Pisica expresivă și sociabilă, se potrivește zilei prin intensitate; comunică mult și cere atenție."
+    },
+    {
+      "name": "23.10",
+      "url": "images/data/turkish_van1.jpg",
+      "description": "23 octombrie – Turkish Van: Pisica independentă, se potrivește zilei prin spirit liber; surprinde prin afecțiune."
+    },
+    {
+      "name": "24.10",
+      "url": "images/data/selkirk_rex1.jpg",
+      "description": "24 octombrie – Selkirk Rex: Pisica cu blană cârlionțată, se potrivește zilei prin unicitate; calmă și foarte iubibilă."
+    },
+    {
+      "name": "25.10",
+      "url": "images/data/korat1.jpg",
+      "description": "25 octombrie – Korat: Pisica cu ochi verzi, se potrivește zilei prin loialitate; atentă și profund atașată."
+    },
+    {
+      "name": "26.10",
+      "url": "images/data/manx1.jpg",
+      "description": "26 octombrie – Manx: Pisica fără coadă, se potrivește zilei prin originalitate; jucăușă și agilă."
+    },
+    {
+      "name": "27.10",
+      "url": "images/data/havana_brown1.jpg",
+      "description": "27 octombrie – Havana Brown: Pisica ciocolatie, se potrivește zilei prin căldură; afectuoasă și curioasă."
+    },
+    {
+      "name": "28.10",
+      "url": "images/data/snowshoe1.jpg",
+      "description": "28 octombrie – Snowshoe: Pisica cu “cizme” albe, se potrivește zilei prin delicatețe; blândă și sociabilă."
+    },
+    {
+      "name": "29.10",
+      "url": "images/data/egyptian_mau1.jpg",
+      "description": "29 octombrie – Egyptian Mau: Pisica elegantă și rapidă, se potrivește zilei prin grație; are mister și finețe."
+    },
+    {
+      "name": "30.10",
+      "url": "images/data/singapura3.jpg",
+      "description": "30 octombrie – Singapura: Pisica mică, dar plină de energie, se potrivește zilei prin vivacitate; jucăușă și atentă."
+    },
+    {
+      "name": "31.10",
+      "url": "images/data/japanese_bobtail3.jpg",
+      "description": "31 octombrie – Japanese Bobtail: Pisica cu coadă scurtă și spirit vesel, se potrivește zilei prin optimism; aduce noroc și bună dispoziție."
+    },
+    {
+      "name": "01.11",
+      "url": "images/data/maine_coon2.jpg",
+      "description": "1 noiembrie – Maine Coon: Pisica impunătoare cu aer protector, se potrivește zilei prin statornicie; calmă, dar mereu atentă."
+    },
+    {
+      "name": "02.11",
+      "url": "images/data/ragdoll2.jpg",
+      "description": "2 noiembrie – Ragdoll: Pisica blândă ca o seară liniștită, se potrivește zilei prin tandrețe; aduce pace și confort."
+    },
+    {
+      "name": "03.11",
+      "url": "images/data/bengal2.jpg",
+      "description": "3 noiembrie – Bengal: Pisica tigrată cu energie de toamnă, se potrivește zilei prin curaj; exploratoare și jucăușă."
+    },
+    {
+      "name": "04.11",
+      "url": "images/data/british-shorthair2.jpg",
+      "description": "4 noiembrie – British Shorthair: Pisica rotundă și regală, se potrivește zilei prin echilibru; iubește confortul și răspunde cu loialitate."
+    },
+    {
+      "name": "05.11",
+      "url": "images/data/siamese2.jpg",
+      "description": "5 noiembrie – Siamese: Pisica expresivă și isteață, se potrivește zilei prin curiozitate; comunică mult și caută companie."
+    },
+    {
+      "name": "06.11",
+      "url": "images/data/norwegian_forest2.jpg",
+      "description": "6 noiembrie – Norwegian Forest: Pisica robustă și liberă, se potrivește zilei prin rezistență; urcă liniștit și privește de sus."
+    },
+    {
+      "name": "07.11",
+      "url": "images/data/russian_blue2.jpg",
+      "description": "7 noiembrie – Russian Blue: Pisica discretă cu blană argintie, se potrivește zilei prin finețe; observă tăcut și păstrează misterul."
+    },
+    {
+      "name": "08.11",
+      "url": "images/data/abyssinian2.jpg",
+      "description": "8 noiembrie – Abyssinian: Pisica atletică și vioaie, se potrivește zilei prin dinamism; curioasă și neobosită."
+    },
+    {
+      "name": "09.11",
+      "url": "images/data/persian2.jpg",
+      "description": "9 noiembrie – Persian: Pisica visătoare cu blană de catifea, se potrivește zilei prin sensibilitate; aduce calm și eleganță."
+    },
+    {
+      "name": "10.11",
+      "url": "images/data/scottish_fold2.jpg",
+      "description": "10 noiembrie – Scottish Fold: Pisica cu urechi pliate și zâmbet blajin, se potrivește zilei prin armonie; blândă și ușor de iubit."
+    },
+    {
+      "name": "11.11",
+      "url": "images/data/sphynx2.jpg",
+      "description": "11 noiembrie – Sphynx: Pisica neconvențională, se potrivește zilei prin originalitate; afectuoasă și surprinzătoare."
+    },
+    {
+      "name": "12.11",
+      "url": "images/data/bombay2.jpg",
+      "description": "12 noiembrie – Bombay: Pisica neagră și intensă, se potrivește zilei prin mister; loială și profund atașată."
+    },
+    {
+      "name": "13.11",
+      "url": "images/data/birman2.jpg",
+      "description": "13 noiembrie – Birman: Pisica cu mănuși albe, se potrivește zilei prin grație; blândă și aproape magică."
+    },
+    {
+      "name": "14.11",
+      "url": "images/data/tonkinese2.jpg",
+      "description": "14 noiembrie – Tonkinese: Pisica sociabilă și jucăușă, se potrivește zilei prin căldură; aduce energie bună."
+    },
+    {
+      "name": "15.11",
+      "url": "images/data/chartreux2.jpg",
+      "description": "15 noiembrie – Chartreux: Pisica calmă și inteligentă, se potrivește zilei prin echilibru; discretă, dar prezentă."
+    },
+    {
+      "name": "16.11",
+      "url": "images/data/turkish_angora2.jpg",
+      "description": "16 noiembrie – Turkish Angora: Pisica elegantă și luminoasă, se potrivește zilei prin rafinament; se mișcă grațios."
+    },
+    {
+      "name": "17.11",
+      "url": "images/data/burmese2.jpg",
+      "description": "17 noiembrie – Burmese: Pisica plină de viață, se potrivește zilei prin entuziasm; prietenoasă și energică."
+    },
+    {
+      "name": "18.11",
+      "url": "images/data/american_shorthair2.jpg",
+      "description": "18 noiembrie – American Shorthair: Pisica echilibrată și practică, se potrivește zilei prin stabilitate; calmă, dar atentă."
+    },
+    {
+      "name": "19.11",
+      "url": "images/data/devon_rex2.jpg",
+      "description": "19 noiembrie – Devon Rex: Pisica jucăușă cu aer comic, se potrivește zilei prin spontaneitate; afectuoasă și amuzantă."
+    },
+    {
+      "name": "20.11",
+      "url": "images/data/siberian2.jpg",
+      "description": "20 noiembrie – Siberian: Pisica puternică și blândă, se potrivește zilei prin generozitate; protectoare și curioasă."
+    },
+    {
+      "name": "21.11",
+      "url": "images/data/ocicat2.jpg",
+      "description": "21 noiembrie – Ocicat: Pisica pătată și îndrăzneață, se potrivește zilei prin aventură; iubește jocul și mișcarea."
+    },
+    {
+      "name": "22.11",
+      "url": "images/data/oriental_shorthair2.jpg",
+      "description": "22 noiembrie – Oriental Shorthair: Pisica expresivă și sociabilă, se potrivește zilei prin intensitate; comunică mult și cere atenție."
+    },
+    {
+      "name": "23.11",
+      "url": "images/data/turkish_van2.jpg",
+      "description": "23 noiembrie – Turkish Van: Pisica independentă, se potrivește zilei prin spirit liber; surprinde prin afecțiune."
+    },
+    {
+      "name": "24.11",
+      "url": "images/data/selkirk_rex2.jpg",
+      "description": "24 noiembrie – Selkirk Rex: Pisica cu blană cârlionțată, se potrivește zilei prin unicitate; calmă și foarte iubibilă."
+    },
+    {
+      "name": "25.11",
+      "url": "images/data/korat2.jpg",
+      "description": "25 noiembrie – Korat: Pisica cu ochi verzi, se potrivește zilei prin loialitate; atentă și profund atașată."
+    },
+    {
+      "name": "26.11",
+      "url": "images/data/manx2.jpg",
+      "description": "26 noiembrie – Manx: Pisica fără coadă, se potrivește zilei prin originalitate; jucăușă și agilă."
+    },
+    {
+      "name": "27.11",
+      "url": "images/data/havana_brown2.jpg",
+      "description": "27 noiembrie – Havana Brown: Pisica ciocolatie, se potrivește zilei prin căldură; afectuoasă și curioasă."
+    },
+    {
+      "name": "28.11",
+      "url": "images/data/snowshoe2.jpg",
+      "description": "28 noiembrie – Snowshoe: Pisica cu “cizme” albe, se potrivește zilei prin delicatețe; blândă și sociabilă."
+    },
+    {
+      "name": "29.11",
+      "url": "images/data/egyptian_mau2.jpg",
+      "description": "29 noiembrie – Egyptian Mau: Pisica elegantă și rapidă, se potrivește zilei prin grație; are mister și finețe."
+    },
+    {
+      "name": "30.11",
+      "url": "images/data/singapura1.jpg",
+      "description": "30 noiembrie – Singapura: Pisica mică, dar plină de energie, se potrivește zilei prin vivacitate; jucăușă și atentă."
+    },
+    {
+      "name": "01.12",
+      "url": "images/data/maine_coon3.jpg",
+      "description": "1 decembrie – Maine Coon: Pisica impunătoare cu aer protector, se potrivește zilei prin statornicie; calmă, dar mereu atentă."
+    },
+    {
+      "name": "02.12",
+      "url": "images/data/ragdoll3.jpg",
+      "description": "2 decembrie – Ragdoll: Pisica blândă ca o seară liniștită, se potrivește zilei prin tandrețe; aduce pace și confort."
+    },
+    {
+      "name": "03.12",
+      "url": "images/data/bengal3.jpg",
+      "description": "3 decembrie – Bengal: Pisica tigrată cu energie de iarnă, se potrivește zilei prin curaj; exploratoare și jucăușă."
+    },
+    {
+      "name": "04.12",
+      "url": "images/data/british-shorthair3.jpg",
+      "description": "4 decembrie – British Shorthair: Pisica rotundă și regală, se potrivește zilei prin echilibru; iubește confortul și răspunde cu loialitate."
+    },
+    {
+      "name": "05.12",
+      "url": "images/data/siamese3.jpg",
+      "description": "5 decembrie – Siamese: Pisica expresivă și isteață, se potrivește zilei prin curiozitate; comunică mult și caută companie."
+    },
+    {
+      "name": "06.12",
+      "url": "images/data/norwegian_forest3.jpg",
+      "description": "6 decembrie – Norwegian Forest: Pisica robustă și liberă, se potrivește zilei prin rezistență; urcă liniștit și privește de sus."
+    },
+    {
+      "name": "07.12",
+      "url": "images/data/russian_blue3.jpg",
+      "description": "7 decembrie – Russian Blue: Pisica discretă cu blană argintie, se potrivește zilei prin finețe; observă tăcut și păstrează misterul."
+    },
+    {
+      "name": "08.12",
+      "url": "images/data/abyssinian3.jpg",
+      "description": "8 decembrie – Abyssinian: Pisica atletică și vioaie, se potrivește zilei prin dinamism; curioasă și neobosită."
+    },
+    {
+      "name": "09.12",
+      "url": "images/data/persian3.jpg",
+      "description": "9 decembrie – Persian: Pisica visătoare cu blană de catifea, se potrivește zilei prin sensibilitate; aduce calm și eleganță."
+    },
+    {
+      "name": "10.12",
+      "url": "images/data/scottish_fold3.jpg",
+      "description": "10 decembrie – Scottish Fold: Pisica cu urechi pliate și zâmbet blajin, se potrivește zilei prin armonie; blândă și ușor de iubit."
+    },
+    {
+      "name": "11.12",
+      "url": "images/data/sphynx3.jpg",
+      "description": "11 decembrie – Sphynx: Pisica neconvențională, se potrivește zilei prin originalitate; afectuoasă și surprinzătoare."
+    },
+    {
+      "name": "12.12",
+      "url": "images/data/bombay3.jpg",
+      "description": "12 decembrie – Bombay: Pisica neagră și intensă, se potrivește zilei prin mister; loială și profund atașată."
+    },
+    {
+      "name": "13.12",
+      "url": "images/data/birman3.jpg",
+      "description": "13 decembrie – Birman: Pisica cu mănuși albe, se potrivește zilei prin grație; blândă și aproape magică."
+    },
+    {
+      "name": "14.12",
+      "url": "images/data/tonkinese3.jpg",
+      "description": "14 decembrie – Tonkinese: Pisica sociabilă și jucăușă, se potrivește zilei prin căldură; aduce energie bună."
+    },
+    {
+      "name": "15.12",
+      "url": "images/data/chartreux3.jpg",
+      "description": "15 decembrie – Chartreux: Pisica calmă și inteligentă, se potrivește zilei prin echilibru; discretă, dar prezentă."
+    },
+    {
+      "name": "16.12",
+      "url": "images/data/turkish_angora3.jpg",
+      "description": "16 decembrie – Turkish Angora: Pisica elegantă și luminoasă, se potrivește zilei prin rafinament; se mișcă grațios."
+    },
+    {
+      "name": "17.12",
+      "url": "images/data/burmese3.jpg",
+      "description": "17 decembrie – Burmese: Pisica plină de viață, se potrivește zilei prin entuziasm; prietenoasă și energică."
+    },
+    {
+      "name": "18.12",
+      "url": "images/data/american_shorthair3.jpg",
+      "description": "18 decembrie – American Shorthair: Pisica echilibrată și practică, se potrivește zilei prin stabilitate; calmă, dar atentă."
+    },
+    {
+      "name": "19.12",
+      "url": "images/data/devon_rex3.jpg",
+      "description": "19 decembrie – Devon Rex: Pisica jucăușă cu aer comic, se potrivește zilei prin spontaneitate; afectuoasă și amuzantă."
+    },
+    {
+      "name": "20.12",
+      "url": "images/data/siberian3.jpg",
+      "description": "20 decembrie – Siberian: Pisica puternică și blândă, se potrivește zilei prin generozitate; protectoare și curioasă."
+    },
+    {
+      "name": "21.12",
+      "url": "images/data/ocicat3.jpg",
+      "description": "21 decembrie – Ocicat: Pisica pătată și îndrăzneață, se potrivește zilei prin aventură; iubește jocul și mișcarea."
+    },
+    {
+      "name": "22.12",
+      "url": "images/data/oriental_shorthair3.jpg",
+      "description": "22 decembrie – Oriental Shorthair: Pisica expresivă și sociabilă, se potrivește zilei prin intensitate; comunică mult și cere atenție."
+    },
+    {
+      "name": "23.12",
+      "url": "images/data/turkish_van3.jpg",
+      "description": "23 decembrie – Turkish Van: Pisica independentă, se potrivește zilei prin spirit liber; surprinde prin afecțiune."
+    },
+    {
+      "name": "24.12",
+      "url": "images/data/selkirk_rex3.jpg",
+      "description": "24 decembrie – Selkirk Rex: Pisica cu blană cârlionțată, se potrivește zilei prin unicitate; calmă și foarte iubibilă."
+    },
+    {
+      "name": "25.12",
+      "url": "images/data/korat3.jpg",
+      "description": "25 decembrie – Korat: Pisica cu ochi verzi, se potrivește zilei prin loialitate; atentă și profund atașată."
+    },
+    {
+      "name": "26.12",
+      "url": "images/data/manx3.jpg",
+      "description": "26 decembrie – Manx: Pisica fără coadă, se potrivește zilei prin originalitate; jucăușă și agilă."
+    },
+    {
+      "name": "27.12",
+      "url": "images/data/havana_brown3.jpg",
+      "description": "27 decembrie – Havana Brown: Pisica ciocolatie, se potrivește zilei prin căldură; afectuoasă și curioasă."
+    },
+    {
+      "name": "28.12",
+      "url": "images/data/snowshoe3.jpg",
+      "description": "28 decembrie – Snowshoe: Pisica cu “cizme” albe, se potrivește zilei prin delicatețe; blândă și sociabilă."
+    },
+    {
+      "name": "29.12",
+      "url": "images/data/egyptian_mau3.jpg",
+      "description": "29 decembrie – Egyptian Mau: Pisica elegantă și rapidă, se potrivește zilei prin grație; are mister și finețe."
+    },
+    {
+      "name": "30.12",
+      "url": "images/data/singapura2.jpg",
+      "description": "30 decembrie – Singapura: Pisica mică, dar plină de energie, se potrivește zilei prin vivacitate; jucăușă și atentă."
+    },
+    {
+      "name": "31.12",
+      "url": "images/data/japanese_bobtail1.jpg",
+      "description": "31 decembrie – Japanese Bobtail: Pisica cu coadă scurtă și spirit vesel, se potrivește zilei prin optimism; încheie anul cu noroc și bună dispoziție."
+    }
   ]
 }
+
