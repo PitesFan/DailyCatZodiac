@@ -139,13 +139,8 @@ function renderFindCat(data, databaseData) {
     inputDate.placeholder = data["show-cat-date"]["input-date-example"];
     recentTitle.classList.add("gray", "recent-title");
     recentTitle.innerText = "Pisici văzute recent: ";
-    deleteHistoryButton.classList.add(
-      "button",
-      "dark-blue",
-      "white",
-      "delete-history-button",
-    );
-    deleteHistoryButton.innerText = "Delete history";
+    deleteHistoryButton.classList.add("button", "dark-green", "white");
+    deleteHistoryButton.innerText = "Șterge istoricul";
     recentContainer.classList.add("recent-list");
 
     showCatDate.appendChild(divHeader3);

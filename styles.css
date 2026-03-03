@@ -79,6 +79,7 @@ body {
 
 section {
   max-width: 1192px;
+  justify-content: center;
   width: 100%;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
