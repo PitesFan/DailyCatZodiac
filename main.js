@@ -130,7 +130,7 @@ function renderFindCat(data, databaseData) {
     catImage.classList.add("cat-image");
     imageDescription.classList.add("image-description", "gray");
     inputDate.type = "text";
-    inputDate.classList.add("input-date");
+    inputDate.classList.add("white", "input-date", "dark-blue");
     inputDate.placeholder = data["show-cat-date"]["input-date-example"];
 
     showCatDate.appendChild(divHeader3);
@@ -150,6 +150,13 @@ function renderFindCat(data, databaseData) {
         imageDescription.innerText = matchedCat.description;
         catImage.style.display = "block";
         imageDescription.style.display = "block";
+      } else {
+        catImage.style.display = "none";
+        imageDescription.innerText = "Introdu o dată validă";
+      }
+      if (inputDate.value === "") {
+        catImage.style.display = "none";
+        imageDescription.style.display = "none";
       }
     });
   }

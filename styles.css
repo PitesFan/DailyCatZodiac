@@ -79,6 +79,7 @@ body {
 
 section {
   max-width: 1192px;
+  width: 100%;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   gap: 32px;
@@ -197,6 +198,27 @@ button:hover {
   grid-column: 9/13;
   width: 100%;
   display: none;
+}
+
+/* Show-cat-date styles */
+
+#show-cat-date {
+  justify-content: center;
+}
+
+.input-date {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px 0px 20px 0px;
+  padding-left: 16px;
+  border: none;
+  border-radius: 40px;
+  font-family: Comfortaa;
+}
+
+.input-date::placeholder {
+  color: #ffffff;
+  opacity: 70%;
 }
 
 /* Footer styles */
