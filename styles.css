@@ -221,6 +221,25 @@ button:hover {
   opacity: 70%;
 }
 
+.recent-title {
+  font-size: 16px;
+}
+
+.delete-history-button {
+  padding: 10px 14px;
+}
+
+.recent-list {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.recent-item {
+  font-size: 16px;
+}
+
 /* Footer styles */
 
 .footer {
