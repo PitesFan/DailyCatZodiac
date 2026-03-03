@@ -38,6 +38,8 @@ function renderHeader(data) {
 }
 
 function renderFindCat(data, databaseData) {
+  const RecentViewed = "recentViewedCats";
+
   const findCat = document.getElementById("find-cat");
   const header2 = document.createElement("h2");
   const image = document.createElement("img");
@@ -123,6 +125,9 @@ function renderFindCat(data, databaseData) {
     const catImage = document.createElement("img");
     const imageDescription = document.createElement("p");
     const inputDate = document.createElement("input");
+    const recentTitle = document.createElement("p");
+    const deleteHistoryButton = document.createElement("button");
+    const recentContainer = document.createElement("div");
 
     header3.innerText = data["show-cat-date"].header3;
     header3.classList.add("white", "h3");
@@ -132,12 +137,50 @@ function renderFindCat(data, databaseData) {
     inputDate.type = "text";
     inputDate.classList.add("white", "input-date", "dark-blue");
     inputDate.placeholder = data["show-cat-date"]["input-date-example"];
+    recentTitle.classList.add("gray", "recent-title");
+    recentTitle.innerText = "Pisici văzute recent: ";
+    deleteHistoryButton.classList.add("button", "dark-green", "white");
+    deleteHistoryButton.innerText = "Șterge istoricul";
+    recentContainer.classList.add("recent-list");
 
     showCatDate.appendChild(divHeader3);
     divHeader3.appendChild(header3);
     divHeader3.appendChild(inputDate);
+    divHeader3.appendChild(recentTitle);
+    divHeader3.appendChild(recentContainer);
+    divHeader3.appendChild(deleteHistoryButton);
     showCatDate.appendChild(catImage);
     showCatDate.appendChild(imageDescription);
+
+    let recentViewedString = localStorage.getItem(RecentViewed);
+    if (!recentViewedString) {
+      localStorage.setItem(RecentViewed, JSON.stringify([]));
+      recentViewedString = localStorage.getItem(RecentViewed);
+    }
+
+    const initialRecentViewed = JSON.parse(recentViewedString);
+    if (initialRecentViewed.length === 0) {
+      const emptyState = document.createElement("p");
+      emptyState.classList.add("gray", "recent-item");
+      emptyState.innerText = "Nu ai istoric recent.";
+      recentContainer.appendChild(emptyState);
+    } else {
+      for (let i = 0; i < initialRecentViewed.length; i++) {
+        const recentItem = document.createElement("p");
+        recentItem.classList.add("gray", "recent-item");
+        recentItem.innerText = initialRecentViewed[i].name;
+        recentContainer.appendChild(recentItem);
+      }
+    }
+
+    deleteHistoryButton.addEventListener("click", () => {
+      localStorage.setItem(RecentViewed, JSON.stringify([]));
+      recentContainer.innerHTML = "";
+      const emptyState = document.createElement("p");
+      emptyState.classList.add("gray", "recent-item");
+      emptyState.innerText = "Nu ai istoric recent.";
+      recentContainer.appendChild(emptyState);
+    });
 
     inputDate.addEventListener("input", (event) => {
       const enteredDate = event.target.value;
@@ -150,6 +193,33 @@ function renderFindCat(data, databaseData) {
         imageDescription.innerText = matchedCat.description;
         catImage.style.display = "block";
         imageDescription.style.display = "block";
+
+        const recentCat = {
+          name: matchedCat.name,
+          url: matchedCat.url,
+          description: matchedCat.description,
+        };
+        const storedRecentString = localStorage.getItem(RecentViewed);
+        const storedRecentCats = JSON.parse(storedRecentString);
+        storedRecentCats.push(recentCat);
+        localStorage.setItem(RecentViewed, JSON.stringify(storedRecentCats));
+
+        const recentViewedString = localStorage.getItem(RecentViewed);
+        const recentViewed = JSON.parse(recentViewedString);
+        recentContainer.innerHTML = "";
+        if (recentViewed.length === 0) {
+          const emptyState = document.createElement("p");
+          emptyState.classList.add("gray", "recent-item");
+          emptyState.innerText = "Nu ai istoric recent.";
+          recentContainer.appendChild(emptyState);
+        } else {
+          for (let i = 0; i < recentViewed.length; i++) {
+            const recentItem = document.createElement("p");
+            recentItem.classList.add("gray", "recent-item");
+            recentItem.innerText = recentViewed[i].name;
+            recentContainer.appendChild(recentItem);
+          }
+        }
       } else {
         catImage.style.display = "none";
         imageDescription.innerText = "Introdu o dată validă";
